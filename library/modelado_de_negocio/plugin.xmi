@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_opCPoBMCEe-z68yt5X_0_A" guid="_opCPoBMCEe-z68yt5X_0_A">
+    <resourceDescriptors xmi:id="_Aq53wBMEEe-z68yt5X_0_A" id="-19oPmlInWPn73tG17pRfEg" uri="tasks/identificar_el_funcionamiento_del_negocio.xmi"/>
+    <resourceDescriptors xmi:id="_QRd88BMEEe-z68yt5X_0_A" id="-OBO8YpPCNpS-htBueO2mww" uri="roles/analista_de_negocio.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_oo9XIBMCEe-z68yt5X_0_A" name="modelado_de_negocio" guid="_oo9XIBMCEe-z68yt5X_0_A" presentationName="modelado de negocio" briefDescription="Modelo del dominio o negocio de la aplicación" authors="Adrian" changeDate="2024-05-15T16:32:51.538-0500">
+    <methodElementProperty xmi:id="_rs8skBMCEe-z68yt5X_0_A" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oo9XIRMCEe-z68yt5X_0_A" name="Content" guid="_oo9XIRMCEe-z68yt5X_0_A">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oo9XIhMCEe-z68yt5X_0_A" name="Categories" guid="_oo9XIhMCEe-z68yt5X_0_A">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oo9XIxMCEe-z68yt5X_0_A" name="Domains" guid="_oo9XIxMCEe-z68yt5X_0_A"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oo9XJBMCEe-z68yt5X_0_A" name="Disciplines" guid="_oo9XJBMCEe-z68yt5X_0_A"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oo9XJRMCEe-z68yt5X_0_A" name="RoleSets" guid="_oo9XJRMCEe-z68yt5X_0_A"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oo9XJhMCEe-z68yt5X_0_A" name="WP Types" guid="_oo9XJhMCEe-z68yt5X_0_A"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oo9XJxMCEe-z68yt5X_0_A" name="Tools" guid="_oo9XJxMCEe-z68yt5X_0_A"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oo9XKBMCEe-z68yt5X_0_A" name="StandardCategories" guid="_oo9XKBMCEe-z68yt5X_0_A"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oo9XKRMCEe-z68yt5X_0_A" name="CustomCategories" guid="_oo9XKRMCEe-z68yt5X_0_A">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oo9XKhMCEe-z68yt5X_0_A" name="Hidden" guid="_oo9XKhMCEe-z68yt5X_0_A">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_oo9XKxMCEe-z68yt5X_0_A" name="Custom Categories" guid="_oo9XKxMCEe-z68yt5X_0_A"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oo9XLBMCEe-z68yt5X_0_A" name="CoreContent" guid="_oo9XLBMCEe-z68yt5X_0_A">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_YVQpsBMDEe-z68yt5X_0_A" name="entender_el_negocio_vision" guid="_YVQpsBMDEe-z68yt5X_0_A" presentationName="Entender el negocio vision" briefDescription="Entender la vision a nivel del negocio aplicado a la entoidad de la Fruteria">
+          <methodElementProperty xmi:id="_YVQpsRMDEe-z68yt5X_0_A" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_nF_6IBMDEe-z68yt5X_0_A" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_zd_KgBMDEe-z68yt5X_0_A" name="identificar_el_funcionamiento_del_negocio" guid="_zd_KgBMDEe-z68yt5X_0_A" presentationName="Identificar el funcionamiento del negocio" briefDescription="Identificar el funcionamiento del negocio de la fruteria" performedBy="_HSIqcBMEEe-z68yt5X_0_A" mandatoryInput="_ZQvlEBMEEe-z68yt5X_0_A">
+            <methodElementProperty xmi:id="_Aq3bgBMEEe-z68yt5X_0_A" name="me_edited" value="true"/>
+            <presentation xmi:id="-19oPmlInWPn73tG17pRfEg" href="uma://-19oPmlInWPn73tG17pRfEg#-19oPmlInWPn73tG17pRfEg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_HSIqcBMEEe-z68yt5X_0_A" name="analista_de_negocio" guid="_HSIqcBMEEe-z68yt5X_0_A" presentationName="Analista de negocio" briefDescription="Analista del negocio">
+            <methodElementProperty xmi:id="_QRa5oBMEEe-z68yt5X_0_A" name="me_edited" value="true"/>
+            <presentation xmi:id="-OBO8YpPCNpS-htBueO2mww" href="uma://-OBO8YpPCNpS-htBueO2mww#-OBO8YpPCNpS-htBueO2mww"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_ZQvlEBMEEe-z68yt5X_0_A" name="recorrido_del_cliente" guid="_ZQvlEBMEEe-z68yt5X_0_A" presentationName="recorrido del cliente" briefDescription="El recorrido que tiene el cliente sobre todo el proceso de compra de insumos, en este caso seria el proveedor">
+            <methodElementProperty xmi:id="_f6W9YBMEEe-z68yt5X_0_A" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oQJZEBMDEe-z68yt5X_0_A" name="realizar_el_modelado_del_negocio" guid="_oQJZEBMDEe-z68yt5X_0_A" presentationName="Realizar el modelado del negocio" briefDescription="Contruir el modelo del negocio que se implementa en la fruteria">
+          <methodElementProperty xmi:id="_oQJZERMDEe-z68yt5X_0_A" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_tMTxEBMDEe-z68yt5X_0_A" name="me_edited" value="true"/>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_oo9XLRMCEe-z68yt5X_0_A" name="CapabilityPatterns" guid="_oo9XLRMCEe-z68yt5X_0_A"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_oo9XLhMCEe-z68yt5X_0_A" name="DeliveryProcesses" guid="_oo9XLhMCEe-z68yt5X_0_A"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_oo9XLxMCEe-z68yt5X_0_A" name="ProcessContributions" guid="_oo9XLxMCEe-z68yt5X_0_A"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

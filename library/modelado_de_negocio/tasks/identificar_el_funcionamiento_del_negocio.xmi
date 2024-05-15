@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-19oPmlInWPn73tG17pRfEg" name=",_zd_KgBMDEe-z68yt5X_0_A" guid="-19oPmlInWPn73tG17pRfEg" changeDate="2024-05-15T16:41:54.131-0500">
+  <mainDescription>Identificar el funcionamiento del negocio de la fruteria</mainDescription>
+  <keyConsiderations>negocio, software, desarrollo</keyConsiderations>
+  <purpose>Entender el funcionamiento del negocio para poder seguir con las etapas del desarrollo</purpose>
+</org.eclipse.epf.uma:TaskDescription>

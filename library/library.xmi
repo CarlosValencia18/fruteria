@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_-IJ5EBMBEe-z68yt5X_0_A" guid="_-IJ5EBMBEe-z68yt5X_0_A">
+    <subManagers xmi:id="_H_UygBMCEe-z68yt5X_0_A" href="uma://_H_KacBMCEe-z68yt5X_0_A#_H_UygBMCEe-z68yt5X_0_A"/>
+    <subManagers xmi:id="_jCk9cBMCEe-z68yt5X_0_A" href="uma://_jCgsABMCEe-z68yt5X_0_A#_jCk9cBMCEe-z68yt5X_0_A"/>
+    <subManagers xmi:id="_opCPoBMCEe-z68yt5X_0_A" href="uma://_oo9XIBMCEe-z68yt5X_0_A#_opCPoBMCEe-z68yt5X_0_A"/>
+    <subManagers xmi:id="_z1VI8BMCEe-z68yt5X_0_A" href="uma://_z1SFoBMCEe-z68yt5X_0_A#_z1VI8BMCEe-z68yt5X_0_A"/>
+    <subManagers xmi:id="_5tICwBMCEe-z68yt5X_0_A" href="uma://_5tDxUBMCEe-z68yt5X_0_A#_5tICwBMCEe-z68yt5X_0_A"/>
+    <resourceDescriptors xmi:id="_-ILuQBMBEe-z68yt5X_0_A" id="_-IHc0RMBEe-z68yt5X_0_A" uri=""/>
+    <resourceDescriptors xmi:id="_H_UygRMCEe-z68yt5X_0_A" id="_H_KacBMCEe-z68yt5X_0_A" uri="requisitos_de_software/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_jCk9cRMCEe-z68yt5X_0_A" id="_jCgsABMCEe-z68yt5X_0_A" uri="implementacion/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_opCPoRMCEe-z68yt5X_0_A" id="_oo9XIBMCEe-z68yt5X_0_A" uri="modelado_de_negocio/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_z1VI8RMCEe-z68yt5X_0_A" id="_z1SFoBMCEe-z68yt5X_0_A" uri="analisis_de_disenio/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_5tICwRMCEe-z68yt5X_0_A" id="_5tDxUBMCEe-z68yt5X_0_A" uri="fruteria/plugin.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodLibrary xmi:id="_-IHc0RMBEe-z68yt5X_0_A" name="library" guid="_-IHc0RMBEe-z68yt5X_0_A">
+    <methodElementProperty xmi:id="_-KxIMBMBEe-z68yt5X_0_A" name="library_synFree" value="false"/>
+    <methodPlugins xmi:id="_H_KacBMCEe-z68yt5X_0_A" href="uma://_H_KacBMCEe-z68yt5X_0_A#_H_KacBMCEe-z68yt5X_0_A"/>
+    <methodPlugins xmi:id="_jCgsABMCEe-z68yt5X_0_A" href="uma://_jCgsABMCEe-z68yt5X_0_A#_jCgsABMCEe-z68yt5X_0_A"/>
+    <methodPlugins xmi:id="_oo9XIBMCEe-z68yt5X_0_A" href="uma://_oo9XIBMCEe-z68yt5X_0_A#_oo9XIBMCEe-z68yt5X_0_A"/>
+    <methodPlugins xmi:id="_z1SFoBMCEe-z68yt5X_0_A" href="uma://_z1SFoBMCEe-z68yt5X_0_A#_z1SFoBMCEe-z68yt5X_0_A"/>
+    <methodPlugins xmi:id="_5tDxUBMCEe-z68yt5X_0_A" href="uma://_5tDxUBMCEe-z68yt5X_0_A#_5tDxUBMCEe-z68yt5X_0_A"/>
+  </org.eclipse.epf.uma:MethodLibrary>
+</xmi:XMI>

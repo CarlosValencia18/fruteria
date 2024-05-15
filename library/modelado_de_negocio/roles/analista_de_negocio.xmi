@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OBO8YpPCNpS-htBueO2mww" name="analista_de_negocio,_HSIqcBMEEe-z68yt5X_0_A" guid="-OBO8YpPCNpS-htBueO2mww" changeDate="2024-05-15T16:44:19.595-0500">
+  <mainDescription>Analista del negocio se encarga de validar el funcionamiento del negocio para satisfacer las necesidades del mismo y&#xD;
+plasmarlas en un disenio</mainDescription>
+  <keyConsiderations>disenio, negocio, software, desarrollo</keyConsiderations>
+</org.eclipse.epf.uma:RoleDescription>
