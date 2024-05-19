@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fMu_VTi8818K98su3mJI7A" name="new_artifact,_CztmEBVvEe-rCOB8M4PBzA" guid="-fMu_VTi8818K98su3mJI7A" changeDate="2024-05-18T18:33:47.079-0500">
+  <mainDescription>El Diálogo del Modelo Mental es una herramienta conceptual que explora cómo los usuarios interactúan mentalmente con el&#xD;
+proceso de compra de insumos a proveedores en la frutería. Se centra en comprender los pensamientos, percepciones,&#xD;
+expectativas y decisiones que los usuarios experimentan durante cada etapa del proceso. Esto puede incluir la forma en que&#xD;
+interpretan la información, las acciones que esperan realizar y las reacciones emocionales que experimentan. El Diálogo del&#xD;
+Modelo Mental ayuda a identificar brechas entre el diseño del sistema y las expectativas del usuario, y proporciona&#xD;
+información valiosa para diseñar interfaces y sistemas que sean intuitivos, eficientes y satisfactorios para los usuarios</mainDescription>
+  <keyConsiderations>Diálogo del Modelo Mental, Interacciones Mentales, Percepciones del Usuario, Diseño Centrado en el Usuario</keyConsiderations>
+  <purpose>Su propósito es comprender cómo los usuarios piensan, perciben y toman decisiones en relación con el proceso, para diseñar&#xD;
+interfaces y sistemas que se alineen con sus modelos mentales</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

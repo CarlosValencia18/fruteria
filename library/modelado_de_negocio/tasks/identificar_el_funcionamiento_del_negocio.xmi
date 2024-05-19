@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-19oPmlInWPn73tG17pRfEg" name=",_zd_KgBMDEe-z68yt5X_0_A" guid="-19oPmlInWPn73tG17pRfEg" changeDate="2024-05-15T16:41:54.131-0500">
-  <mainDescription>Identificar el funcionamiento del negocio de la fruteria</mainDescription>
-  <keyConsiderations>negocio, software, desarrollo</keyConsiderations>
-  <purpose>Entender el funcionamiento del negocio para poder seguir con las etapas del desarrollo</purpose>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-19oPmlInWPn73tG17pRfEg" name=",_zd_KgBMDEe-z68yt5X_0_A" guid="-19oPmlInWPn73tG17pRfEg" changeDate="2024-05-18T16:43:29.216-0500">
+  <mainDescription>Identificar el funcionamiento del negocio en una frutería implica analizar en detalle todas las actividades operativas.&#xD;
+Esto incluye examinar cómo se adquieren los productos (por ejemplo, a través de proveedores locales o mayoristas), cómo se&#xD;
+almacenan y exhiben los productos en la tienda, cómo se atiende a los clientes, cómo se gestiona el inventario y cómo se&#xD;
+realizan las transacciones de venta. Además, implica comprender las relaciones con los proveedores de productos frescos,&#xD;
+los clientes regulares y los servicios de entrega, así como garantizar el cumplimiento de las regulaciones de seguridad&#xD;
+alimentaria y sanitaria. Identificar el funcionamiento del negocio en una frutería es esencial para garantizar la frescura&#xD;
+de los productos, mantener la rentabilidad del negocio y ofrecer un servicio de calidad a los clientes</mainDescription>
+  <keyConsiderations>Funcionamiento del negocio, frutería, adquisición de productos, atención al cliente, gestión de inventario, satisfacción&#xD;
+del cliente</keyConsiderations>
+  <purpose>&lt;p>&#xD;
+    El propósito de esta tarea es obtener una comprensión clara de cómo se ejecutan las operaciones en la frutería para&#xD;
+    mejorar la eficiencia, garantizar la calidad de los productos y optimizar la satisfacción del cliente&#xD;
+&lt;/p></purpose>
+  <alternatives>Análisis operativo de la frutería, Evaluación de los procesos de venta de frutas, Auditoría operativa de la frutería,&#xD;
+Revisión del modelo de negocio de la frutería, Análisis de la cadena de suministro de la frutería</alternatives>
 </org.eclipse.epf.uma:TaskDescription>

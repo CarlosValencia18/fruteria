@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-LzqWQKbNdTBnaw2O5MEVLQ" name=",_xmxE0BVhEe-rCOB8M4PBzA" guid="-LzqWQKbNdTBnaw2O5MEVLQ" changeDate="2024-05-18T16:58:54.017-0500">
+  <mainDescription>Identificar el flujo de las actividades en una frutería implica mapear y visualizar el orden y la secuencia de las acciones&#xD;
+que se llevan a cabo para completar diferentes procesos y tareas. Esto podría incluir el flujo de actividades desde que un&#xD;
+cliente ingresa a la tienda hasta que realiza una compra, o el flujo de actividades relacionadas con la gestión de&#xD;
+inventario, desde la recepción de productos hasta su almacenamiento y exhibición en la tienda. Al identificar este flujo de&#xD;
+actividades, se pueden identificar cuellos de botella, redundancias o áreas de mejora en los procesos operativos de la&#xD;
+frutería</mainDescription>
+  <keyConsiderations>Flujo de actividades, orden, secuencia, procesos operativos, eficiencia, productividad</keyConsiderations>
+  <purpose>El propósito de esta tarea es comprender cómo se realizan las operaciones en la frutería y cómo fluyen las actividades de&#xD;
+un paso a otro para optimizar la eficiencia y la productividad</purpose>
+  <alternatives>Identificación de pasos en los procesos operativos de la frutería, Reconocimiento de la secuencia de actividades en&#xD;
+diferentes tareas, Análisis del flujo de trabajo en la atención al cliente, gestión de inventario, entre otros, Evaluación&#xD;
+de la eficiencia y la productividad en función del flujo de actividades identificado, Descripción de mejoras en los&#xD;
+procesos basadas en el flujo de actividades observado</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-J6QWU0TPLC444skKdpk0IA" name="new_role,_x612YBVsEe-rCOB8M4PBzA" guid="-J6QWU0TPLC444skKdpk0IA" changeDate="2024-05-18T18:17:38.354-0500">
+  <mainDescription>El Ingeniero de Pruebas en el proceso de la frutería desarrolla estrategias de prueba, diseña casos de prueba, y ejecuta&#xD;
+pruebas funcionales y de rendimiento para verificar la calidad del software. Trabaja en colaboración con el equipo de&#xD;
+desarrollo y los analistas de negocio para comprender los requisitos del sistema y garantizar que se cumplan todos los&#xD;
+criterios de aceptación. Además, registra y documenta los resultados de las pruebas, identifica y reporta los errores&#xD;
+encontrados, y colabora en su corrección y verificación. El Ingeniero de Pruebas también puede participar en la&#xD;
+automatización de pruebas para mejorar la eficiencia y la cobertura de las pruebas</mainDescription>
+  <keyConsiderations>Ingeniero de Pruebas, calidad de software, estrategias de prueba, casos de prueba, automatización de pruebas</keyConsiderations>
+  <skills>Conocimiento de técnicas de prueba y metodologías de aseguramiento de la calidad, habilidades de análisis y resolución de&#xD;
+problemas, capacidad para trabajar en equipo y comunicar de manera efectiva, experiencia en herramientas de automatización&#xD;
+de pruebas</skills>
+  <assignmentApproaches>Desarrollar estrategias y planes de prueba para el sistema, diseñar casos de prueba y escenarios de prueba relevantes,&#xD;
+ejecutar pruebas funcionales y de rendimiento, documentar y reportar los resultados de las pruebas, colaborar en la&#xD;
+corrección y verificación de errores, automatizar pruebas cuando sea posible para mejorar la eficiencia y la cobertura de&#xD;
+las pruebas</assignmentApproaches>
+  <synonyms>Especialista en Pruebas de Software, Analista de Pruebas, Ingeniero de Calidad de Software</synonyms>
+</org.eclipse.epf.uma:RoleDescription>

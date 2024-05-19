@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-p34g3WmbvcXxdKjmS2OoZw" name=",_iP3BsBVgEe-rCOB8M4PBzA" guid="-p34g3WmbvcXxdKjmS2OoZw" changeDate="2024-05-18T16:50:24.915-0500">
+  <mainDescription>Identificar los involucrados en una frutería implica identificar y comprender a todas las partes interesadas que tienen un&#xD;
+interés en el funcionamiento y los resultados del negocio. Esto podría incluir a los clientes que compran productos, los&#xD;
+proveedores que suministran frutas y otros productos, los empleados que trabajan en la frutería, las autoridades&#xD;
+regulatorias que establecen normativas y regulaciones, entre otros. Al identificar a estos involucrados, se pueden entender&#xD;
+mejor sus necesidades, expectativas y requerimientos, y desarrollar estrategias para gestionar las relaciones y satisfacer&#xD;
+sus demandas de manera efectiva</mainDescription>
+  <keyConsiderations>Involucrados, partes interesadas, clientes, proveedores, empleados, autoridades regulatorias</keyConsiderations>
+  <purpose>El propósito de esta tarea es comprender quiénes están afectados por las operaciones y decisiones de la frutería, y cómo&#xD;
+pueden influir en el éxito del negocio</purpose>
+  <alternatives>Identificación de partes interesadas en la frutería, Reconocimiento de actores relevantes, Análisis de las personas&#xD;
+afectadas por las operaciones, Identificación de grupos de interés en el negocio, Evaluación de los involucrados en la&#xD;
+cadena de suministro</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-5vM_KHZ2P5WNLxR0h_FBIA" name="new_artifact,_J9A5IBVxEe-rCOB8M4PBzA" guid="-5vM_KHZ2P5WNLxR0h_FBIA" changeDate="2024-05-18T18:48:59.301-0500">
+  <mainDescription>Una API (Interfaz de Programación de Aplicaciones) es un conjunto de reglas y definiciones que especifica cómo diferentes&#xD;
+aplicaciones pueden interactuar entre sí. En el contexto del proceso de compra de insumos a proveedores en la frutería, una&#xD;
+API puede utilizarse para permitir que diferentes sistemas y servicios se comuniquen y compartan datos de manera segura y&#xD;
+eficiente. Por ejemplo, una API puede permitir que un sistema de gestión de inventario se comunique con un sistema de&#xD;
+procesamiento de pagos para actualizar el inventario después de que se realice un pedido. Las APIs pueden ser públicas o&#xD;
+privadas, y pueden utilizar diferentes protocolos de comunicación, como HTTP, REST, SOAP, entre otros. Una buena API&#xD;
+proporciona una interfaz clara y documentada, facilitando su uso e integración por parte de otros desarrolladores y&#xD;
+sistemas</mainDescription>
+  <keyConsiderations>API, Interfaz de Programación de Aplicaciones, Integración de Sistemas, Comunicación de Datos, Seguridad</keyConsiderations>
+  <purpose>Su propósito es facilitar la integración de sistemas, permitiendo que las aplicaciones compartan datos y funcionalidades de&#xD;
+manera segura y eficiente</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

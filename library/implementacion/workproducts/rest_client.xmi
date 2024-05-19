@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-DQqgcdjQ3Pui6Hr9gM4mPw" name="new_artifact,_o7Gh8BVxEe-rCOB8M4PBzA" guid="-DQqgcdjQ3Pui6Hr9gM4mPw" changeDate="2024-05-18T18:52:24.164-0500">
+  <mainDescription>Un cliente REST es una aplicación o herramienta que se utiliza para interactuar con servicios web RESTful en el contexto&#xD;
+del proceso de compra de insumos a proveedores en la frutería. Utiliza el protocolo HTTP para enviar solicitudes (GET,&#xD;
+POST, PUT, DELETE, etc.) a un servicio web y recibir respuestas en formato JSON, XML u otro formato compatible con REST.&#xD;
+Los clientes REST pueden ser aplicaciones de línea de comandos, extensiones de navegador, bibliotecas de programación, o&#xD;
+herramientas integradas en entornos de desarrollo. Permiten a los desarrolladores enviar datos, realizar consultas y probar&#xD;
+la funcionalidad de los servicios web de forma rápida y eficiente, lo que facilita el desarrollo, depuración y&#xD;
+mantenimiento de sistemas distribuidos.</mainDescription>
+  <keyConsiderations>Cliente REST, Servicio Web RESTful, Protocolo HTTP, Comunicación entre Sistemas, Interacción con API</keyConsiderations>
+  <purpose>Su propósito es interactuar con servicios web RESTful para enviar datos, realizar consultas y recibir respuestas,&#xD;
+facilitando la comunicación entre sistemas distribuidos</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

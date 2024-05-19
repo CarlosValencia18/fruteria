@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-nI8V0XokGyfkDTjc2k8AHw" name="new_artifact,_mfW_oBVuEe-rCOB8M4PBzA" guid="-nI8V0XokGyfkDTjc2k8AHw" changeDate="2024-05-18T18:30:39.535-0500">
+  <mainDescription>Los Escenarios Vividos son relatos detallados que describen eventos, acciones y resultados dentro del proceso de compra de&#xD;
+insumos a proveedores en la frutería. Estas narrativas pueden ser basadas en experiencias reales de usuarios o hipotéticas,&#xD;
+y se centran en los pasos que llevan a cabo los usuarios, los problemas que pueden enfrentar y cómo se resuelven esos&#xD;
+problemas. Por ejemplo, un escenario vivido puede describir cómo un empleado realiza un pedido de frutas a un proveedor,&#xD;
+incluyendo la selección de productos, la creación del pedido, el proceso de pago y la recepción de la entrega. Estos&#xD;
+escenarios ayudan a identificar puntos de dolor, necesidades del usuario y oportunidades de mejora en el proceso, y sirven&#xD;
+como base para el diseño de soluciones centradas en el usuario</mainDescription>
+  <keyConsiderations>Escenarios Vividos, Narrativas, Experiencias del Usuario, Mejora Continua, Diseño Centrado en el Usuario</keyConsiderations>
+  <purpose>Su propósito es ilustrar cómo se desarrollan las interacciones y eventos dentro del proceso, ayudando a comprender las&#xD;
+experiencias del usuario y las posibles áreas de mejora</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

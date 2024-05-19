@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-RNDdy7lrIuBcbRQHaykOFw" name="new_artifact,_Vx9OMBVuEe-rCOB8M4PBzA" guid="-RNDdy7lrIuBcbRQHaykOFw" changeDate="2024-05-18T18:28:48.843-0500">
+  <mainDescription>La Plantilla de Procesos es un documento detallado que describe cada etapa del proceso de compra de insumos a proveedores&#xD;
+en la frutería, así como las actividades, responsabilidades, recursos y entregables asociados a cada una. Este documento&#xD;
+proporciona una guía paso a paso para los empleados involucrados en el proceso, ayudándoles a entender qué hacer, cuándo&#xD;
+hacerlo y cómo hacerlo correctamente. Además, la plantilla puede incluir indicadores clave de desempeño (KPIs) para medir&#xD;
+la eficiencia y efectividad del proceso. La plantilla de procesos es una herramienta fundamental para estandarizar las&#xD;
+operaciones, mejorar la consistencia y calidad del trabajo, y facilitar la capacitación de nuevos empleados</mainDescription>
+  <keyConsiderations>Plantilla de Procesos, Flujo de Trabajo, Estandarización, Documentación, Mejora Continua</keyConsiderations>
+  <purpose>Su propósito es estandarizar y documentar el proceso, facilitando su comprensión, ejecución y mejora continua</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

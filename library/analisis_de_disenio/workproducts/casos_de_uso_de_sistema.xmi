@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-YgxiPD29pxu4Brz7Gef0Zg" name="new_artifact,_wQ1rUBVvEe-rCOB8M4PBzA" guid="-YgxiPD29pxu4Brz7Gef0Zg" changeDate="2024-05-18T18:38:57.510-0500">
+  <mainDescription>Los Casos de Uso del Sistema son una técnica de modelado que describe las interacciones entre los usuarios y el sistema en&#xD;
+el contexto del proceso de compra de insumos a proveedores en la frutería. Cada caso de uso representa una funcionalidad&#xD;
+específica del sistema, mostrando cómo un usuario interactúa con el sistema para lograr un objetivo particular. Esto&#xD;
+incluye las acciones que realiza el usuario, las respuestas del sistema y cualquier resultado esperado. Los casos de uso&#xD;
+del sistema proporcionan una comprensión detallada de las funcionalidades del sistema desde la perspectiva del usuario,&#xD;
+ayudando a definir los requisitos del sistema y a guiar el diseño, desarrollo y prueba del sistema de manera efectiva</mainDescription>
+  <keyConsiderations>Casos de Uso del Sistema, Interacciones Usuario-Sistema, Requisitos Funcionales, Diseño de Sistema</keyConsiderations>
+  <purpose>Su propósito es detallar las acciones específicas que los usuarios pueden realizar y cómo el sistema responde a esas&#xD;
+acciones, facilitando el diseño y desarrollo del sistema</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

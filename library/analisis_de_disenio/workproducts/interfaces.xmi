@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-e2G9zSBMhX6BPgHpZgS4fA" name="new_artifact,_aTtssBVvEe-rCOB8M4PBzA" guid="-e2G9zSBMhX6BPgHpZgS4fA" changeDate="2024-05-18T18:36:53.793-0500">
+  <mainDescription>Las Interfaces son elementos visuales o interactivos que permiten a los usuarios interactuar con el sistema durante el&#xD;
+proceso de compra de insumos a proveedores en la frutería. Esto puede incluir interfaces de usuario gráficas (GUI), como&#xD;
+pantallas de entrada de datos, menús desplegables, botones de acción, entre otros, así como interfaces de usuario basadas&#xD;
+en voz o gestos en casos más avanzados. Las interfaces están diseñadas para ser intuitivas y fáciles de usar,&#xD;
+proporcionando a los usuarios la información y las herramientas necesarias para llevar a cabo sus tareas de manera&#xD;
+efectiva. El diseño de interfaces eficaces es fundamental para garantizar la usabilidad, la eficiencia y la satisfacción&#xD;
+del usuario durante todo el proceso</mainDescription>
+  <keyConsiderations>Interfaces, Interacción Usuario-Sistema, Interfaz de Usuario Gráfica (GUI), Usabilidad, Experiencia del Usuario</keyConsiderations>
+  <purpose>Su propósito es facilitar la comunicación y la ejecución de tareas al proporcionar una forma intuitiva y eficiente para que&#xD;
+los usuarios interactúen con el sistema</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

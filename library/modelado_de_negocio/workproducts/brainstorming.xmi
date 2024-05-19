@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-woQWT_FgxzjZLPdyC9C-lw" name="new_artifact,_o8wroBVtEe-rCOB8M4PBzA" guid="-woQWT_FgxzjZLPdyC9C-lw" changeDate="2024-05-18T18:23:49.343-0500">
+  <mainDescription>El Brainstorming es una técnica de lluvia de ideas que involucra a diferentes miembros del equipo, como gerentes, empleados&#xD;
+y otros interesados, con el fin de generar ideas y soluciones creativas relacionadas con el proceso de compra de insumos a&#xD;
+proveedores en la frutería. Durante la sesión de Brainstorming, los participantes comparten libremente sus ideas, sin&#xD;
+críticas ni juicios, y se fomenta la construcción y expansión de ideas a través de la asociación y la combinación. El&#xD;
+objetivo es explorar nuevas perspectivas, identificar oportunidades de mejora y encontrar soluciones innovadoras para los&#xD;
+desafíos existentes en el proceso de adquisición de insumos. El Brainstorming puede ser una herramienta efectiva para&#xD;
+estimular la creatividad, fortalecer la colaboración del equipo y generar ideas que impulsen el éxito del negocio</mainDescription>
+  <keyConsiderations>Brainstorming, Ideas, Creatividad, Colaboración, Innovación</keyConsiderations>
+  <purpose>Su propósito es fomentar la colaboración y la generación de ideas innovadoras para mejorar el proceso de adquisición de&#xD;
+insumos y optimizar la operación de la frutería</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

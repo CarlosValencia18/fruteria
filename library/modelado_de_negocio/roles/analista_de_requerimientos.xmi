@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gVepw7tmpGZhGNIgjaoFQQ" name="new_role,_MP5wgBVrEe-rCOB8M4PBzA" guid="-gVepw7tmpGZhGNIgjaoFQQ" changeDate="2024-05-18T18:06:14.798-0500">
+  <mainDescription>El Analista de Requerimientos en el proceso de la frutería trabaja en estrecha colaboración con los usuarios y las partes&#xD;
+interesadas para identificar, documentar y validar los requisitos del sistema. Esto implica comprender a fondo los procesos&#xD;
+comerciales y las necesidades del usuario, traducir estas necesidades en requisitos funcionales y técnicos, y asegurarse de&#xD;
+que sean comprensibles para el equipo de desarrollo. Además, el Analista de Requerimientos actúa como un enlace entre los&#xD;
+usuarios y el equipo de desarrollo, asegurando que los requisitos del sistema se implementen de manera efectiva y&#xD;
+satisfagan las necesidades del negocio</mainDescription>
+  <keyConsiderations>Analista de Requerimientos, necesidades funcionales, documentación, validación, colaboración</keyConsiderations>
+  <skills>Excelentes habilidades de comunicación y entrevista, capacidad para comprender y analizar procesos comerciales, habilidad&#xD;
+para documentar requisitos de manera clara y concisa, experiencia en técnicas de recolección y gestión de requerimientos,&#xD;
+conocimiento de metodologías de desarrollo de software</skills>
+  <assignmentApproaches>Identificar y documentar los requisitos del sistema en colaboración con los usuarios y las partes interesadas, validar los&#xD;
+requisitos para garantizar su completitud y precisión, gestionar cambios en los requisitos durante todo el ciclo de vida&#xD;
+del proyecto, colaborar con el equipo de desarrollo para asegurar la implementación correcta de los requisitos, garantizar&#xD;
+que los requisitos del sistema estén alineados con los objetivos y necesidades del negocio</assignmentApproaches>
+  <synonyms>Especialista en Requerimientos, Analista de Requisitos, Ingeniero de Requerimientos</synonyms>
+</org.eclipse.epf.uma:RoleDescription>

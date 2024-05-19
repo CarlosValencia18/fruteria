@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-bt0IjeKQkvQkphIgUrTiCA" name="new_artifact,_Cv5noBVwEe-rCOB8M4PBzA" guid="-bt0IjeKQkvQkphIgUrTiCA" changeDate="2024-05-18T18:40:56.730-0500">
+  <mainDescription>El Diagrama de Clases es una herramienta de modelado que describe la estructura estática del sistema en el proceso de&#xD;
+compra de insumos a proveedores en la frutería. Representa las clases de objetos relevantes en el sistema, junto con sus&#xD;
+atributos y métodos, y muestra las relaciones y asociaciones entre estas clases. Por ejemplo, puede representar clases como&#xD;
+Proveedor, Producto, Pedido y Factura, y mostrar cómo están relacionadas entre sí (por ejemplo, un pedido tiene una&#xD;
+asociación con un proveedor y contiene múltiples productos). El Diagrama de Clases es útil para comprender la estructura&#xD;
+del sistema, identificar las clases clave y sus atributos, y definir las relaciones entre ellas, lo que facilita el diseño&#xD;
+e implementación del sistema</mainDescription>
+  <keyConsiderations>Diagrama de Clases, Clases, Relaciones, Atributos, Modelado de Sistema</keyConsiderations>
+  <purpose>Su propósito es modelar la estructura estática del sistema, identificando las clases de objetos y las relaciones entre&#xD;
+ellas</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

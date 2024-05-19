@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
-  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_z1VI8BMCEe-z68yt5X_0_A" guid="_z1VI8BMCEe-z68yt5X_0_A"/>
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_z1VI8BMCEe-z68yt5X_0_A" guid="_z1VI8BMCEe-z68yt5X_0_A">
+    <resourceDescriptors xmi:id="_N9sBohVjEe-rCOB8M4PBzA" id="-GLZktGYOfD332Fmp8vfHFA" uri="tasks/implementar_el_modelo_mental_del_usuario.xmi"/>
+    <resourceDescriptors xmi:id="_eDMsoBVjEe-rCOB8M4PBzA" id="-6OXJknOdyKmYtzWLYlKfLw" uri="tasks/diseniar_el_modelo_de_formulario.xmi"/>
+    <resourceDescriptors xmi:id="_1ejj0hVjEe-rCOB8M4PBzA" id="-h_FuDO82DT4X1r2KQFciew" uri="tasks/identificar_los_involucrados_que_utilizan_tecnologia%202.xmi"/>
+    <resourceDescriptors xmi:id="_BkkTYRVkEe-rCOB8M4PBzA" id="-rPQeqJzdFb88HNTCouOkUw" uri="tasks/identificar_los_casos_de_uso_del_sistema.xmi"/>
+    <resourceDescriptors xmi:id="_ylnyYBVkEe-rCOB8M4PBzA" id="-CW81ki-5VNCqlHvXG07pRg" uri="tasks/modelar_el_dominio.xmi"/>
+    <resourceDescriptors xmi:id="_SfyXAhVnEe-rCOB8M4PBzA" id="-pjqErsOS__kBINBdXQ6hQA" uri="tasks/especificar_las_clases_del_sistema.xmi"/>
+    <resourceDescriptors xmi:id="_hNx1chVnEe-rCOB8M4PBzA" id="-2DvjmPafGA2009N7H8oeIg" uri="tasks/diseniar_en_base_a_los_requisitos_funcionales.xmi"/>
+    <resourceDescriptors xmi:id="_s-FawBVnEe-rCOB8M4PBzA" id="-RyuPH0SZhVmHgA-9-gZpyw" uri="tasks/disear_remodelando_los_formularios_en_papel.xmi"/>
+    <resourceDescriptors xmi:id="_rfnU0hVrEe-rCOB8M4PBzA" id="-PBxQAkd3Zi9lV6JjLTVDRg" uri="roles/diseniador_iu.xmi"/>
+    <resourceDescriptors xmi:id="_56m-whVrEe-rCOB8M4PBzA" id="-wiOvx6m2DL0NeEQs5pl6kw" uri="roles/diseniador_de_modelo_de_sistema.xmi"/>
+    <resourceDescriptors xmi:id="_HXbJMhVsEe-rCOB8M4PBzA" id="-vwoctEdKpwhGQvmMI5uJiw" uri="roles/diseniador_de_prototipos_de_iu.xmi"/>
+    <resourceDescriptors xmi:id="_X5ftAhVvEe-rCOB8M4PBzA" id="-IQx3WuBXr33YXfb5uvWhnw" uri="workproducts/formulario_en_papel.xmi"/>
+    <resourceDescriptors xmi:id="_impzQBVvEe-rCOB8M4PBzA" id="-e2G9zSBMhX6BPgHpZgS4fA" uri="workproducts/interfaces.xmi"/>
+    <resourceDescriptors xmi:id="_uDEMMBVvEe-rCOB8M4PBzA" id="-VR6_Axcx8luo3_CpnTZ7Rw" uri="workproducts/especificacin_de_casos_de_uso_sistema.xmi"/>
+    <resourceDescriptors xmi:id="_1QI24BVvEe-rCOB8M4PBzA" id="-YgxiPD29pxu4Brz7Gef0Zg" uri="workproducts/casos_de_uso_de_sistema.xmi"/>
+    <resourceDescriptors xmi:id="__QBAYBVvEe-rCOB8M4PBzA" id="-v_uYwylUHTJvSP2PpimAfg" uri="workproducts/diagrama_de_dominio.xmi"/>
+    <resourceDescriptors xmi:id="_G2zyohVwEe-rCOB8M4PBzA" id="-bt0IjeKQkvQkphIgUrTiCA" uri="workproducts/diagrama_de_clases.xmi"/>
+    <resourceDescriptors xmi:id="_Qc9NgBVwEe-rCOB8M4PBzA" id="-0HtzL1R2Qlxk6zacXE45dA" uri="workproducts/prototipo_ui.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_z1SFoBMCEe-z68yt5X_0_A" name="analisis_de_disenio" guid="_z1SFoBMCEe-z68yt5X_0_A" presentationName="analisis_de_disenio" briefDescription="Analisis implementado sobre el disenio realizado sobre el software" authors="adrian" changeDate="2024-05-15T16:33:56.443-0500">
     <methodElementProperty xmi:id="_1X4g0BMCEe-z68yt5X_0_A" name="me_edited" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_z1SFoRMCEe-z68yt5X_0_A" name="Content" guid="_z1SFoRMCEe-z68yt5X_0_A">
@@ -17,7 +36,92 @@
           </childPackages>
         </childPackages>
       </childPackages>
-      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_z1SFrBMCEe-z68yt5X_0_A" name="CoreContent" guid="_z1SFrBMCEe-z68yt5X_0_A"/>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_z1SFrBMCEe-z68yt5X_0_A" name="CoreContent" guid="_z1SFrBMCEe-z68yt5X_0_A">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_QkBZcBVdEe-rCOB8M4PBzA" name="realizar_el_modelado_del_sistema" guid="_QkBZcBVdEe-rCOB8M4PBzA" presentationName="Realizar el modelado del sistema" briefDescription="Realizar el modelado del sistema en un desarrollo de software implica crear una representación abstracta y estructurada del sistema, identificando sus componentes, relaciones y comportamientos para comprender cómo funciona y cómo se relaciona con el entorno, facilitando así el diseño, la implementación y el mantenimiento del software">
+          <methodElementProperty xmi:id="_QkBZcRVdEe-rCOB8M4PBzA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_TdVv8BVdEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_wNPbMBVjEe-rCOB8M4PBzA" name="identificar_los_involucrados_que_utilizan_tecnologia" guid="_wNPbMBVjEe-rCOB8M4PBzA" presentationName="Identificar los involucrados que utilizan tecnologia" briefDescription="Identificar los involucrados que utilizan tecnología implica reconocer las partes interesadas que interactúan con sistemas tecnológicos en el proceso de compra de insumos a proveedores en la frutería" performedBy="_tfzD4BVrEe-rCOB8M4PBzA" output="_kAD2MBVvEe-rCOB8M4PBzA">
+            <methodElementProperty xmi:id="_1ejj0BVjEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-h_FuDO82DT4X1r2KQFciew" href="uma://-h_FuDO82DT4X1r2KQFciew#-h_FuDO82DT4X1r2KQFciew"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_5tiFsBVjEe-rCOB8M4PBzA" name="identificar_los_casos_de_uso_del_sistema" guid="_5tiFsBVjEe-rCOB8M4PBzA" presentationName="Identificar los casos de uso del sistema" briefDescription="Identificar los casos de uso del sistema implica reconocer las diferentes interacciones y acciones que los usuarios realizan con el sistema de compra de insumos a proveedores en la frutería" performedBy="_tfzD4BVrEe-rCOB8M4PBzA" mandatoryInput="_kAD2MBVvEe-rCOB8M4PBzA" output="_wQ1rUBVvEe-rCOB8M4PBzA">
+            <methodElementProperty xmi:id="_BkjsUBVkEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-rPQeqJzdFb88HNTCouOkUw" href="uma://-rPQeqJzdFb88HNTCouOkUw#-rPQeqJzdFb88HNTCouOkUw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_hI9uQBVkEe-rCOB8M4PBzA" name="modelar_el_dominio" guid="_hI9uQBVkEe-rCOB8M4PBzA" presentationName="Modelar el dominio" briefDescription="Modelar el dominio implica definir las entidades y las relaciones clave que existen dentro del contexto del proceso de compra de insumos a proveedores en la frutería" performedBy="_tfzD4BVrEe-rCOB8M4PBzA" mandatoryInput="_wQ1rUBVvEe-rCOB8M4PBzA" output="_6uG7cBVvEe-rCOB8M4PBzA">
+            <methodElementProperty xmi:id="_ylmkQBVkEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-CW81ki-5VNCqlHvXG07pRg" href="uma://-CW81ki-5VNCqlHvXG07pRg#-CW81ki-5VNCqlHvXG07pRg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_EFEZ4BVnEe-rCOB8M4PBzA" name="especificar_las_clases_del_sistema" guid="_EFEZ4BVnEe-rCOB8M4PBzA" presentationName="Especificar las clases del sistema" briefDescription="Especificar las clases del sistema implica definir las diferentes clases de objetos que formarán parte del sistema de compra de insumos a proveedores en la frutería, así como sus atributos y métodos" performedBy="_tfzD4BVrEe-rCOB8M4PBzA" mandatoryInput="_6uG7cBVvEe-rCOB8M4PBzA _wQ1rUBVvEe-rCOB8M4PBzA" output="_Cv5noBVwEe-rCOB8M4PBzA">
+            <methodElementProperty xmi:id="_SfyXABVnEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-pjqErsOS__kBINBdXQ6hQA" href="uma://-pjqErsOS__kBINBdXQ6hQA#-pjqErsOS__kBINBdXQ6hQA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_tfzD4BVrEe-rCOB8M4PBzA" name="diseniador_de_modelo_de_sistema" guid="_tfzD4BVrEe-rCOB8M4PBzA" presentationName="Diseniador de modelo de sistema" briefDescription="El Diseñador de Modelo de Sistema en el proceso de la frutería crea la estructura y la arquitectura del sistema de compra de insumos a proveedores">
+            <methodElementProperty xmi:id="_56m-wBVrEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-wiOvx6m2DL0NeEQs5pl6kw" href="uma://-wiOvx6m2DL0NeEQs5pl6kw#-wiOvx6m2DL0NeEQs5pl6kw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_kAD2MBVvEe-rCOB8M4PBzA" name="especificacin_de_casos_de_uso_sistema" guid="_kAD2MBVvEe-rCOB8M4PBzA" presentationName="Especificación de Casos de Uso Sistema" briefDescription="La Especificación de Casos de Uso del Sistema describe las interacciones entre los usuarios y el sistema durante el proceso de compra de insumos a proveedores en la frutería">
+            <methodElementProperty xmi:id="_uDC-EBVvEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-VR6_Axcx8luo3_CpnTZ7Rw" href="uma://-VR6_Axcx8luo3_CpnTZ7Rw#-VR6_Axcx8luo3_CpnTZ7Rw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_wQ1rUBVvEe-rCOB8M4PBzA" name="casos_de_uso_de_sistema" guid="_wQ1rUBVvEe-rCOB8M4PBzA" presentationName="Casos de uso de sistema" briefDescription="Los Casos de Uso del Sistema describen las interacciones entre los usuarios y el sistema durante el proceso de compra de insumos a proveedores en la frutería.">
+            <methodElementProperty xmi:id="_1QHBsBVvEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-YgxiPD29pxu4Brz7Gef0Zg" href="uma://-YgxiPD29pxu4Brz7Gef0Zg#-YgxiPD29pxu4Brz7Gef0Zg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_6uG7cBVvEe-rCOB8M4PBzA" name="diagrama_de_dominio" guid="_6uG7cBVvEe-rCOB8M4PBzA" presentationName="Diagrama de Dominio" briefDescription="El Diagrama de Dominio visualiza las entidades y relaciones clave dentro del proceso de compra de insumos a proveedores en la frutería">
+            <methodElementProperty xmi:id="__P65wBVvEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-v_uYwylUHTJvSP2PpimAfg" href="uma://-v_uYwylUHTJvSP2PpimAfg#-v_uYwylUHTJvSP2PpimAfg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Cv5noBVwEe-rCOB8M4PBzA" name="diagrama_de_clases" guid="_Cv5noBVwEe-rCOB8M4PBzA" presentationName="Diagrama de clases" briefDescription="El Diagrama de Clases representa las clases y sus relaciones en el proceso de compra de insumos a proveedores en la frutería">
+            <methodElementProperty xmi:id="_G2zyoBVwEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-bt0IjeKQkvQkphIgUrTiCA" href="uma://-bt0IjeKQkvQkphIgUrTiCA#-bt0IjeKQkvQkphIgUrTiCA"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_WQ-VMBVdEe-rCOB8M4PBzA" name="diseniar_el_prototipo_de_las_interfaces" guid="_WQ-VMBVdEe-rCOB8M4PBzA" presentationName="Diseniar el prototipo de las interfaces" briefDescription="Diseñar el prototipo de las interfaces en un desarrollo de software implica crear representaciones visuales interactivas de la aplicación, que permiten validar el diseño, la usabilidad y la funcionalidad antes de la implementación final, agilizando el proceso de desarrollo y mejorando la satisfacción del usuario">
+          <methodElementProperty xmi:id="_WQ-VMRVdEe-rCOB8M4PBzA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_YzNBYBVdEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_UxhwIBVnEe-rCOB8M4PBzA" name="diseniar_en_base_a_los_requisitos_funcionales" guid="_UxhwIBVnEe-rCOB8M4PBzA" presentationName="Diseniar en base a los requisitos funcionales" briefDescription="Diseñar en base a los requisitos funcionales implica crear la arquitectura y la estructura del sistema de compra de insumos a proveedores en la frutería teniendo en cuenta las funciones y operaciones que debe realizar" performedBy="_-sYEoBVrEe-rCOB8M4PBzA" output="_I_60MBVwEe-rCOB8M4PBzA">
+            <methodElementProperty xmi:id="_hNx1cBVnEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-2DvjmPafGA2009N7H8oeIg" href="uma://-2DvjmPafGA2009N7H8oeIg#-2DvjmPafGA2009N7H8oeIg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_lsbyEBVnEe-rCOB8M4PBzA" name="disear_remodelando_los_formularios_en_papel" guid="_lsbyEBVnEe-rCOB8M4PBzA" presentationName="Diseñar remodelando los formularios en papel" briefDescription="Diseñar remodelando los formularios en papel implica actualizar y mejorar la estructura y el diseño de los formularios utilizados en el proceso de compra de insumos a proveedores en la frutería" performedBy="_-sYEoBVrEe-rCOB8M4PBzA" mandatoryInput="_I_60MBVwEe-rCOB8M4PBzA" output="_I_60MBVwEe-rCOB8M4PBzA">
+            <methodElementProperty xmi:id="_s-CXcBVnEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-RyuPH0SZhVmHgA-9-gZpyw" href="uma://-RyuPH0SZhVmHgA-9-gZpyw#-RyuPH0SZhVmHgA-9-gZpyw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_-sYEoBVrEe-rCOB8M4PBzA" name="diseniador_de_prototipos_de_iu" guid="_-sYEoBVrEe-rCOB8M4PBzA" presentationName="Diseniador de prototipos de IU" briefDescription="El Diseñador de Prototipos de IU en el proceso de la frutería crea representaciones visuales interactivas de la interfaz de usuario del sistema">
+            <methodElementProperty xmi:id="_HXbJMBVsEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-vwoctEdKpwhGQvmMI5uJiw" href="uma://-vwoctEdKpwhGQvmMI5uJiw#-vwoctEdKpwhGQvmMI5uJiw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_I_60MBVwEe-rCOB8M4PBzA" name="prototipo_ui" guid="_I_60MBVwEe-rCOB8M4PBzA" presentationName="Prototipo UI" briefDescription="El Prototipo de Interfaz de Usuario (UI) es una representación visual de la interfaz de usuario del sistema utilizado durante el proceso de compra de insumos a proveedores en la frutería">
+            <methodElementProperty xmi:id="_Qc3G4BVwEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-0HtzL1R2Qlxk6zacXE45dA" href="uma://-0HtzL1R2Qlxk6zacXE45dA#-0HtzL1R2Qlxk6zacXE45dA"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ndazEBVdEe-rCOB8M4PBzA" name="disenio_de_la_interface_de_usuario" guid="_ndazEBVdEe-rCOB8M4PBzA" presentationName="Disenio de la interface de usuario" briefDescription="El diseño de la interfaz de usuario en un desarrollo de software implica crear una representación visual y funcional de la aplicación que facilite la interacción del usuario, priorizando la usabilidad, la accesibilidad y la estética para mejorar la experiencia del usuario y cumplir con los objetivos del negocio">
+          <methodElementProperty xmi:id="_ndazERVdEe-rCOB8M4PBzA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_qLPEMBVdEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_8AwiABViEe-rCOB8M4PBzA" name="implementar_el_modelo_mental_del_usuario" guid="_8AwiABViEe-rCOB8M4PBzA" presentationName="Implementar el modelo mental del usuario" briefDescription="Implementar el modelo mental del usuario en el formulario de papel implica diseñar el formulario de manera que refleje la comprensión y las expectativas del usuario al interactuar con él durante el proceso de compra de insumos a proveedores en la frutería" performedBy="_kUcHkBVrEe-rCOB8M4PBzA" output="_UmQaoBVvEe-rCOB8M4PBzA">
+            <methodElementProperty xmi:id="_N9sBoBVjEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-GLZktGYOfD332Fmp8vfHFA" href="uma://-GLZktGYOfD332Fmp8vfHFA#-GLZktGYOfD332Fmp8vfHFA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_U2E1wBVjEe-rCOB8M4PBzA" name="diseniar_el_modelo_de_formulario" guid="_U2E1wBVjEe-rCOB8M4PBzA" presentationName="Diseniar el modelo de formulario" briefDescription="Diseñar el modelo de formulario implica crear una estructura visual y funcional para el formulario utilizado en el proceso de compra de insumos a proveedores en la frutería" performedBy="_kUcHkBVrEe-rCOB8M4PBzA" mandatoryInput="_UmQaoBVvEe-rCOB8M4PBzA" output="_aTtssBVvEe-rCOB8M4PBzA">
+            <methodElementProperty xmi:id="_eDLegBVjEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-6OXJknOdyKmYtzWLYlKfLw" href="uma://-6OXJknOdyKmYtzWLYlKfLw#-6OXJknOdyKmYtzWLYlKfLw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_kUcHkBVrEe-rCOB8M4PBzA" name="diseniador_iu" guid="_kUcHkBVrEe-rCOB8M4PBzA" presentationName="Diseniador IU" briefDescription="El Diseñador UI en el proceso de la frutería crea la interfaz visual del sistema de compra de insumos a proveedores">
+            <methodElementProperty xmi:id="_rfnU0BVrEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-PBxQAkd3Zi9lV6JjLTVDRg" href="uma://-PBxQAkd3Zi9lV6JjLTVDRg#-PBxQAkd3Zi9lV6JjLTVDRg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_UmQaoBVvEe-rCOB8M4PBzA" name="formulario_en_papel" guid="_UmQaoBVvEe-rCOB8M4PBzA" presentationName="Formulario en Papel" briefDescription="El Formulario en Papel es un documento impreso utilizado para recopilar información manualmente durante el proceso de compra de insumos a proveedores en la frutería">
+            <methodElementProperty xmi:id="_X5ftABVvEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-IQx3WuBXr33YXfb5uvWhnw" href="uma://-IQx3WuBXr33YXfb5uvWhnw#-IQx3WuBXr33YXfb5uvWhnw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_aTtssBVvEe-rCOB8M4PBzA" name="interfaces" guid="_aTtssBVvEe-rCOB8M4PBzA" presentationName="Interfaces" briefDescription="Las Interfaces son puntos de interacción entre los usuarios y el sistema durante el proceso de compra de insumos a proveedores en la frutería">
+            <methodElementProperty xmi:id="_imn-EBVvEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-e2G9zSBMhX6BPgHpZgS4fA" href="uma://-e2G9zSBMhX6BPgHpZgS4fA#-e2G9zSBMhX6BPgHpZgS4fA"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_z1SFrRMCEe-z68yt5X_0_A" name="CapabilityPatterns" guid="_z1SFrRMCEe-z68yt5X_0_A"/>
     </methodPackages>
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_z1SFrhMCEe-z68yt5X_0_A" name="DeliveryProcesses" guid="_z1SFrhMCEe-z68yt5X_0_A"/>

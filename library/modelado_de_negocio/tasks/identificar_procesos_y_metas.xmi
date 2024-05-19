@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-PR3R_mBk1oGgPqXpFcEoXw" name="identificar_procesos_y_metas,_DNW9gBVhEe-rCOB8M4PBzA" guid="-PR3R_mBk1oGgPqXpFcEoXw" changeDate="2024-05-18T16:53:41.489-0500">
+  <mainDescription>Identificar procesos y metas en una frutería implica identificar las actividades clave que se llevan a cabo para realizar&#xD;
+las operaciones diarias, como la compra de productos, la gestión de inventario, la atención al cliente y la contabilidad.&#xD;
+Además, implica establecer metas específicas y medibles que la frutería busca alcanzar, como aumentar las ventas, mejorar&#xD;
+la satisfacción del cliente o reducir los costos operativos. Al identificar estos procesos y metas, se puede diseñar un&#xD;
+plan estratégico para optimizar la eficiencia y la rentabilidad del negocio</mainDescription>
+  <keyConsiderations>Procesos, metas, objetivos, operaciones, eficiencia, rentabilidad</keyConsiderations>
+  <purpose>El propósito de esta tarea es comprender cómo se llevan a cabo las operaciones en la frutería y establecer objetivos claros&#xD;
+para guiar el desempeño y el crecimiento del negocio</purpose>
+  <alternatives>Identificación de actividades clave en la frutería, Reconocimiento de objetivos empresariales, Análisis de procesos&#xD;
+operativos, Establecimiento de metas medibles, Evaluación de resultados esperados</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

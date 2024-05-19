@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-cskfr5ctJxGsFHgH_ORP_g" name=",_0FQ9ABVgEe-rCOB8M4PBzA" guid="-cskfr5ctJxGsFHgH_ORP_g" changeDate="2024-05-18T16:52:01.472-0500">
+  <mainDescription>Identificar los casos de uso en una frutería implica identificar las diferentes acciones que los usuarios realizarán con el&#xD;
+sistema. Esto puede incluir actividades como realizar una compra de productos, buscar información sobre los productos&#xD;
+disponibles, gestionar el inventario, solicitar asistencia al cliente, entre otros. Al identificar estos casos de uso, se&#xD;
+pueden diseñar y desarrollar funcionalidades específicas del sistema que satisfagan las necesidades y expectativas de los&#xD;
+usuarios</mainDescription>
+  <keyConsiderations>Casos de uso, interacciones, usuarios, sistema, funcionalidades</keyConsiderations>
+  <purpose>El propósito de esta tarea es comprender cómo los usuarios interactuarán con el sistema de la frutería para satisfacer sus&#xD;
+necesidades y alcanzar sus objetivos</purpose>
+  <alternatives>Identificación de interacciones con el sistema de la frutería, Reconocimiento de acciones del usuario, Análisis de&#xD;
+escenarios de uso, Descripción de funcionalidades requeridas, Evaluación de casos de uso en el contexto de la frutería</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

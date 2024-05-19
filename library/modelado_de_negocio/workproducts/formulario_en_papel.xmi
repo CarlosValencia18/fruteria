@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OS-ITjebyKV0ZI9g1u-69Q" name="new_artifact,_1px7YBVuEe-rCOB8M4PBzA" guid="-OS-ITjebyKV0ZI9g1u-69Q" changeDate="2024-05-18T18:32:40.237-0500">
+  <mainDescription>El Formulario en Papel es una herramienta física que se utiliza en el proceso de compra de insumos a proveedores en la&#xD;
+frutería para registrar información importante, como detalles del pedido, cantidades, fechas de entrega, entre otros. Este&#xD;
+formulario suele estar diseñado de manera estructurada, con campos específicos para diferentes tipos de información. Los&#xD;
+empleados completan el formulario manualmente durante las interacciones con los proveedores o al recibir pedidos de&#xD;
+mercancía. Una vez completado, el formulario puede ser procesado y registrado en el sistema de la frutería para su&#xD;
+seguimiento y gestión adecuada</mainDescription>
+  <keyConsiderations>Formulario en Papel, Recopilación de Datos, Procesamiento Manual, Información Estructurada</keyConsiderations>
+  <purpose>Su propósito es capturar datos relevantes de manera eficiente y estructurada para su posterior procesamiento en el sistema</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

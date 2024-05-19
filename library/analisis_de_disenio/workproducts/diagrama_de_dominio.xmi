@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-v_uYwylUHTJvSP2PpimAfg" name="new_artifact,_6uG7cBVvEe-rCOB8M4PBzA" guid="-v_uYwylUHTJvSP2PpimAfg" changeDate="2024-05-18T18:40:07.531-0500">
+  <mainDescription>El Diagrama de Dominio es una representación visual de las entidades principales y sus relaciones dentro del contexto del&#xD;
+proceso de compra de insumos a proveedores en la frutería. Este diagrama muestra las clases de objetos relevantes en el&#xD;
+dominio del negocio, así como las asociaciones, atributos y multiplicidades que existen entre ellas. Por ejemplo, puede&#xD;
+representar las entidades como Proveedor, Producto, Pedido, Factura, entre otras, y mostrar cómo están relacionadas entre&#xD;
+sí (por ejemplo, un pedido pertenece a un proveedor y contiene múltiples productos). El Diagrama de Dominio ayuda a&#xD;
+comprender la estructura del negocio y las relaciones entre las entidades, lo que facilita el diseño de la arquitectura del&#xD;
+sistema y la identificación de requisitos y dependencias clave</mainDescription>
+  <keyConsiderations>Diagrama de Dominio, Entidades, Relaciones, Estructura del Negocio, Modelado</keyConsiderations>
+  <purpose>Su propósito es modelar la estructura y las interacciones entre las entidades del dominio, ayudando a comprender la&#xD;
+dinámica del proceso y las dependencias entre las entidades</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

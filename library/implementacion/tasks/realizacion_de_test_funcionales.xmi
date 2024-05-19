@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gjV3mkh7MX4mT2i0JmYTUQ" name=",_nkt3cBVpEe-rCOB8M4PBzA" guid="-gjV3mkh7MX4mT2i0JmYTUQ" changeDate="2024-05-18T17:55:10.543-0500">
+  <mainDescription>La realización de test funcionales en el proceso de compra de insumos a proveedores en la frutería implica diseñar y&#xD;
+ejecutar pruebas que evalúen el comportamiento y la funcionalidad del sistema desde la perspectiva del usuario final. Esto&#xD;
+puede incluir pruebas de unidad para verificar el funcionamiento individual de cada componente, pruebas de integración para&#xD;
+garantizar que los diferentes módulos funcionen juntos correctamente, y pruebas de aceptación para validar que el sistema&#xD;
+cumpla con los requisitos del usuario y del negocio. Al realizar test funcionales, se identifican y corrigen errores y&#xD;
+problemas funcionales antes de que el sistema sea desplegado en un entorno de producción</mainDescription>
+  <keyConsiderations>Test funcionales, verificación, requisitos funcionales, usuario final</keyConsiderations>
+  <purpose>El propósito de esta tarea es asegurar que el sistema cumpla con los requisitos funcionales establecidos y que funcione&#xD;
+correctamente en diferentes situaciones y escenarios</purpose>
+  <alternatives>Diseño de casos de prueba que cubran diferentes escenarios y situaciones de uso, Ejecución de pruebas de manera manual o&#xD;
+automatizada para verificar el comportamiento del sistema, Registro y seguimiento de los resultados de las pruebas,&#xD;
+incluyendo errores y fallos encontrados, Corrección de errores identificados durante las pruebas y realización de nuevas&#xD;
+pruebas para verificar las correcciones, Documentación de los resultados de las pruebas y preparación de informes para&#xD;
+informar sobre el estado de la calidad del software</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

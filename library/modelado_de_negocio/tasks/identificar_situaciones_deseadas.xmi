@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-bMF0eFyqiR9ptQqa9GtBrA" name=",_U--acBVgEe-rCOB8M4PBzA" guid="-bMF0eFyqiR9ptQqa9GtBrA" changeDate="2024-05-18T16:48:31.132-0500">
+  <mainDescription>Identificar situaciones deseadas en una frutería implica definir y visualizar los resultados o condiciones ideales que la&#xD;
+empresa aspira alcanzar en diferentes áreas de su operación. Esto podría incluir altos niveles de satisfacción del cliente,&#xD;
+eficiencia en la gestión de inventario para garantizar la frescura de los productos, rentabilidad sostenible que asegure la&#xD;
+viabilidad a largo plazo del negocio, entre otros. Al identificar estas situaciones deseadas, se establecen objetivos&#xD;
+claros y medibles que orientan las decisiones y acciones de la empresa hacia el logro de resultados positivos y el éxito a&#xD;
+largo plazo</mainDescription>
+  <keyConsiderations>Situaciones deseadas, metas, objetivos, satisfacción del cliente, eficiencia operativa, rentabilidad</keyConsiderations>
+  <purpose>El propósito de esta tarea es establecer metas claras y aspiracionales para la frutería, proporcionando una guía clara para&#xD;
+la toma de decisiones y acciones encaminadas a mejorar el funcionamiento y el éxito del negocio</purpose>
+  <alternatives>Definición de metas en la frutería, Establecimiento de situaciones ideales, Visualización de resultados deseados,&#xD;
+Descripción de condiciones aspiracionales, Identificación de objetivos para el negocio</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

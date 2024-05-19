@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-4j-q1mXA_10lTTDwQfdQ6A" name="new_role,_XiSOQBVsEe-rCOB8M4PBzA" guid="-4j-q1mXA_10lTTDwQfdQ6A" changeDate="2024-05-18T18:14:50.309-0500">
+  <mainDescription>El Programador en el proceso de la frutería se encarga de implementar los requisitos funcionales y técnicos del sistema&#xD;
+utilizando lenguajes de programación y tecnologías específicas. Trabaja en colaboración con el equipo de diseño y los&#xD;
+analistas de negocio para comprender los requisitos del sistema y traducirlos en código funcional. Además, realiza pruebas&#xD;
+unitarias para asegurar la calidad del código y colabora en la resolución de problemas y optimización del rendimiento. El&#xD;
+Programador también puede participar en la integración de diferentes componentes del sistema y en la implementación de&#xD;
+funcionalidades complejas</mainDescription>
+  <keyConsiderations>Programador, desarrollo de software, codificación, pruebas unitarias, integración</keyConsiderations>
+  <skills>Dominio de lenguajes de programación y tecnologías de desarrollo, comprensión de principios de diseño de software y buenas&#xD;
+prácticas de codificación, habilidades de resolución de problemas, capacidad para trabajar en equipo y colaborar en&#xD;
+proyectos de desarrollo de software</skills>
+  <assignmentApproaches>Desarrollar y codificar las funcionalidades del sistema según los requisitos establecidos, realizar pruebas unitarias para&#xD;
+verificar la funcionalidad y la calidad del código, colaborar en la resolución de problemas y la optimización del&#xD;
+rendimiento, integrar diferentes componentes del sistema, documentar el código y colaborar en la preparación de la&#xD;
+documentación técnica</assignmentApproaches>
+  <synonyms>Desarrollador de Software, Ingeniero de Software, Programador de Aplicaciones</synonyms>
+</org.eclipse.epf.uma:RoleDescription>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-rPQeqJzdFb88HNTCouOkUw" name=",_5tiFsBVjEe-rCOB8M4PBzA" guid="-rPQeqJzdFb88HNTCouOkUw" changeDate="2024-05-18T17:14:17.609-0500">
+  <mainDescription>Identificar los casos de uso del sistema en el proceso de compra de insumos a proveedores en la frutería implica&#xD;
+identificar las diversas acciones que los usuarios realizan con el sistema digital. Esto puede incluir acciones como&#xD;
+realizar pedidos de productos, gestionar inventarios, comunicarse con proveedores, realizar seguimiento de pedidos, entre&#xD;
+otras. Al identificar estos casos de uso, se puede diseñar un sistema que satisfaga las necesidades y expectativas de los&#xD;
+usuarios y mejore la eficiencia del proceso de compra</mainDescription>
+  <keyConsiderations>Casos de uso, sistema, interacciones, usuarios, funcionalidades</keyConsiderations>
+  <purpose>El propósito de esta tarea es comprender cómo los usuarios interactúan con el sistema digital durante el proceso de compra&#xD;
+y determinar las funcionalidades necesarias para satisfacer sus necesidades</purpose>
+  <alternatives>Identificación de acciones clave realizadas por los usuarios en el sistema de compra, Reconocimiento de funcionalidades&#xD;
+necesarias para satisfacer las necesidades de los usuarios, Análisis de la interacción entre los usuarios y el sistema&#xD;
+durante el proceso de compra, Evaluación de la efectividad del sistema en relación con los casos de uso identificados,&#xD;
+Desarrollo de recomendaciones para mejorar el sistema con base en los casos de uso identificados</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

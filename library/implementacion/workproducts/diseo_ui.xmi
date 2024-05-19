@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-U8cXrhCy6MYD6kcvt_ZADA" name="new_artifact,_W-Le0BVwEe-rCOB8M4PBzA" guid="-U8cXrhCy6MYD6kcvt_ZADA" changeDate="2024-05-18T18:43:25.140-0500">
+  <mainDescription>El Diseño de Interfaz de Usuario (UI) implica la creación de la apariencia visual y la interacción de la interfaz de&#xD;
+usuario para el proceso de compra de insumos a proveedores en la frutería. Esto incluye el diseño de elementos como la&#xD;
+disposición de la pantalla, los colores, los estilos de fuente, los iconos y los controles interactivos (botones, menús,&#xD;
+formularios, etc.). El diseño de UI se basa en principios de usabilidad y diseño centrado en el usuario, con el objetivo de&#xD;
+crear una interfaz que sea fácil de entender, eficiente de usar y estéticamente agradable. Los diseñadores de UI trabajan&#xD;
+en estrecha colaboración con los usuarios y otros interesados para comprender sus necesidades y expectativas, y utilizan&#xD;
+herramientas como prototipos y pruebas de usabilidad para iterar y refinar el diseño hasta lograr una solución&#xD;
+satisfactoria</mainDescription>
+  <keyConsiderations>Diseño de Interfaz de Usuario, UI, Experiencia del Usuario, Usabilidad, Diseño Centrado en el Usuario</keyConsiderations>
+  <purpose>Su propósito es diseñar una interfaz de usuario intuitiva y atractiva que satisfaga las necesidades y expectativas de los&#xD;
+usuarios, mejorando así la experiencia del usuario</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

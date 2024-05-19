@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Bxf1n_-ihjPXO3cpm2sFYA" name="recorrido_del_cliente,_ZQvlEBMEEe-z68yt5X_0_A" guid="-Bxf1n_-ihjPXO3cpm2sFYA" changeDate="2024-05-18T18:22:12.363-0500">
+  <mainDescription>El Recorrido del Cliente es un documento que visualiza y analiza las diversas etapas y puntos de contacto que un cliente&#xD;
+experimenta desde el primer contacto con la empresa hasta la postventa. Esto puede incluir la conciencia de la marca, la&#xD;
+investigación de productos, la compra, la entrega, el soporte y la fidelización. El documento proporciona una descripción&#xD;
+detallada de las acciones, emociones y necesidades del cliente en cada etapa del viaje, identificando los momentos clave de&#xD;
+la verdad y las oportunidades para mejorar la experiencia del cliente. El Recorrido del Cliente es una herramienta&#xD;
+estratégica que ayuda a las empresas a comprender mejor a sus clientes, identificar áreas de mejora y desarrollar&#xD;
+estrategias para maximizar la satisfacción y la lealtad del cliente</mainDescription>
+  <keyConsiderations>Recorrido del Cliente, Experiencia del Cliente, Interacciones del Cliente, Puntos de Contacto, Mejora Continua</keyConsiderations>
+  <purpose>Su propósito es comprender las necesidades, expectativas y puntos de dolor del cliente durante su viaje, con el fin de&#xD;
+mejorar la experiencia del cliente y optimizar los procesos comerciales</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

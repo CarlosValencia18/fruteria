@@ -3,6 +3,31 @@
   <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_opCPoBMCEe-z68yt5X_0_A" guid="_opCPoBMCEe-z68yt5X_0_A">
     <resourceDescriptors xmi:id="_Aq53wBMEEe-z68yt5X_0_A" id="-19oPmlInWPn73tG17pRfEg" uri="tasks/identificar_el_funcionamiento_del_negocio.xmi"/>
     <resourceDescriptors xmi:id="_QRd88BMEEe-z68yt5X_0_A" id="-OBO8YpPCNpS-htBueO2mww" uri="roles/analista_de_negocio.xmi"/>
+    <resourceDescriptors xmi:id="_MQau4hVgEe-rCOB8M4PBzA" id="-_s0DWEm-TgxtZeyvIIq-hg" uri="tasks/identificar_situaciones_problematicas.xmi"/>
+    <resourceDescriptors xmi:id="_gAV2IBVgEe-rCOB8M4PBzA" id="-bMF0eFyqiR9ptQqa9GtBrA" uri="tasks/identificar_situaciones_deseadas.xmi"/>
+    <resourceDescriptors xmi:id="_uPutAhVgEe-rCOB8M4PBzA" id="-p34g3WmbvcXxdKjmS2OoZw" uri="tasks/identificar_los_involucrados.xmi"/>
+    <resourceDescriptors xmi:id="_73xQABVgEe-rCOB8M4PBzA" id="-cskfr5ctJxGsFHgH_ORP_g" uri="tasks/identificar_los_casos_de_uso.xmi"/>
+    <resourceDescriptors xmi:id="_Lws3khVhEe-rCOB8M4PBzA" id="-PR3R_mBk1oGgPqXpFcEoXw" uri="tasks/identificar_procesos_y_metas.xmi"/>
+    <resourceDescriptors xmi:id="_eudiEhVhEe-rCOB8M4PBzA" id="-5klKf20W63_e22kWUlZ68A" uri="tasks/identificar_las_relaciones_de_dominio.xmi"/>
+    <resourceDescriptors xmi:id="_t0dQ0hVhEe-rCOB8M4PBzA" id="-2Y9wocvCO7KaBvB0aqH9Eg" uri="tasks/identificar_las_interacciones.xmi"/>
+    <resourceDescriptors xmi:id="_5kwPEhVhEe-rCOB8M4PBzA" id="-LzqWQKbNdTBnaw2O5MEVLQ" uri="tasks/identificar_el_flujo_de_las_actividades.xmi"/>
+    <resourceDescriptors xmi:id="_NPkM0BViEe-rCOB8M4PBzA" id="-bcEVU-rgTianxS5Ooy2TJQ" uri="tasks/identificacion_del_formulario.xmi"/>
+    <resourceDescriptors xmi:id="_ZbewEhViEe-rCOB8M4PBzA" id="--Ahk21-57JcCtTmpTuVuDA" uri="tasks/detallar_el_formulario.xmi"/>
+    <resourceDescriptors xmi:id="_oPyR4RViEe-rCOB8M4PBzA" id="-ixqSw-tj8u4ekGDVCtriJw" uri="tasks/identificacion_del_dialogo.xmi"/>
+    <resourceDescriptors xmi:id="_4IzZABViEe-rCOB8M4PBzA" id="-CDgeK4C9m6Nft2FE0vxvHQ" uri="tasks/detallar_el_dialogo.xmi"/>
+    <resourceDescriptors xmi:id="_HTQQUhVrEe-rCOB8M4PBzA" id="-mbbfJ7n0uBHtGnZsHsUE8g" uri="roles/analista_de_negocio%202.xmi"/>
+    <resourceDescriptors xmi:id="_VTbmgBVrEe-rCOB8M4PBzA" id="-gVepw7tmpGZhGNIgjaoFQQ" uri="roles/analista_de_requerimientos.xmi"/>
+    <resourceDescriptors xmi:id="_gmdZ8hVrEe-rCOB8M4PBzA" id="-yTkOhkVnN7cnAhJ2ovKAuw" uri="roles/diseador_iu.xmi"/>
+    <resourceDescriptors xmi:id="_ga9CoRVtEe-rCOB8M4PBzA" id="-Bxf1n_-ihjPXO3cpm2sFYA" uri="workproducts/recorrido_del_cliente.xmi"/>
+    <resourceDescriptors xmi:id="_uF36ghVtEe-rCOB8M4PBzA" id="-woQWT_FgxzjZLPdyC9C-lw" uri="workproducts/brainstorming.xmi"/>
+    <resourceDescriptors xmi:id="_Hq_TghVuEe-rCOB8M4PBzA" id="-maTb7X4aX_Q-9wwS65u62g" uri="workproducts/stakeholders.xmi"/>
+    <resourceDescriptors xmi:id="_TTirARVuEe-rCOB8M4PBzA" id="-rVO9ph9G_nmVw-Oim5AP-Q" uri="workproducts/diagrama_de_casos_de_uso.xmi"/>
+    <resourceDescriptors xmi:id="_bJFq8BVuEe-rCOB8M4PBzA" id="-RNDdy7lrIuBcbRQHaykOFw" uri="workproducts/plantilla_de_procesos.xmi"/>
+    <resourceDescriptors xmi:id="_jpEvAhVuEe-rCOB8M4PBzA" id="-9kORdgF80c_wHtaS8GJIGg" uri="workproducts/relaciones_de_dominio.xmi"/>
+    <resourceDescriptors xmi:id="_rkpechVuEe-rCOB8M4PBzA" id="-nI8V0XokGyfkDTjc2k8AHw" uri="workproducts/escenarios_vividos.xmi"/>
+    <resourceDescriptors xmi:id="_zPUrIBVuEe-rCOB8M4PBzA" id="-7EONg_-Y75MZXCCtOTnEEw" uri="workproducts/diagrama_de_actividades.xmi"/>
+    <resourceDescriptors xmi:id="_9OGBYhVuEe-rCOB8M4PBzA" id="-OS-ITjebyKV0ZI9g1u-69Q" uri="workproducts/formulario_en_papel.xmi"/>
+    <resourceDescriptors xmi:id="_PDG7IhVvEe-rCOB8M4PBzA" id="-fMu_VTi8818K98su3mJI7A" uri="workproducts/dialogo.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_oo9XIBMCEe-z68yt5X_0_A" name="modelado_de_negocio" guid="_oo9XIBMCEe-z68yt5X_0_A" presentationName="modelado de negocio" briefDescription="Modelo del dominio o negocio de la aplicación" authors="Adrian" changeDate="2024-05-15T16:32:51.538-0500">
     <methodElementProperty xmi:id="_rs8skBMCEe-z68yt5X_0_A" name="me_edited" value="true"/>
@@ -21,24 +46,125 @@
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oo9XLBMCEe-z68yt5X_0_A" name="CoreContent" guid="_oo9XLBMCEe-z68yt5X_0_A">
-        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_YVQpsBMDEe-z68yt5X_0_A" name="entender_el_negocio_vision" guid="_YVQpsBMDEe-z68yt5X_0_A" presentationName="Entender el negocio vision" briefDescription="Entender la vision a nivel del negocio aplicado a la entoidad de la Fruteria">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_YVQpsBMDEe-z68yt5X_0_A" name="entender_el_negocio_vision" guid="_YVQpsBMDEe-z68yt5X_0_A" presentationName="Entender el negocio vision" briefDescription="Entender el modelo de negocio en un desarrollo de software implica comprender cómo la tecnología se alinea con los objetivos comerciales para crear valor y generar ingresos">
           <methodElementProperty xmi:id="_YVQpsRMDEe-z68yt5X_0_A" name="pkg_loadCheck" value="true"/>
           <methodElementProperty xmi:id="_nF_6IBMDEe-z68yt5X_0_A" name="me_edited" value="true"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_zd_KgBMDEe-z68yt5X_0_A" name="identificar_el_funcionamiento_del_negocio" guid="_zd_KgBMDEe-z68yt5X_0_A" presentationName="Identificar el funcionamiento del negocio" briefDescription="Identificar el funcionamiento del negocio de la fruteria" performedBy="_HSIqcBMEEe-z68yt5X_0_A" mandatoryInput="_ZQvlEBMEEe-z68yt5X_0_A">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_zd_KgBMDEe-z68yt5X_0_A" name="identificar_el_funcionamiento_del_negocio" guid="_zd_KgBMDEe-z68yt5X_0_A" presentationName="Identificar el funcionamiento del negocio" briefDescription="Identificar el funcionamiento del negocio en una frutería implica comprender cómo se llevan a cabo las operaciones diarias, desde la adquisición y venta de productos hasta la atención al cliente y la gestión de inventario" performedBy="_HSIqcBMEEe-z68yt5X_0_A" mandatoryInput="_ZQvlEBMEEe-z68yt5X_0_A">
             <methodElementProperty xmi:id="_Aq3bgBMEEe-z68yt5X_0_A" name="me_edited" value="true"/>
             <presentation xmi:id="-19oPmlInWPn73tG17pRfEg" href="uma://-19oPmlInWPn73tG17pRfEg#-19oPmlInWPn73tG17pRfEg"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_HSIqcBMEEe-z68yt5X_0_A" name="analista_de_negocio" guid="_HSIqcBMEEe-z68yt5X_0_A" presentationName="Analista de negocio" briefDescription="Analista del negocio">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_HSIqcBMEEe-z68yt5X_0_A" name="analista_de_negocio" guid="_HSIqcBMEEe-z68yt5X_0_A" presentationName="Analista de negocio" briefDescription="El Analista de Negocio en el proceso de la frutería interpreta las necesidades del negocio y las traduce en requisitos para el desarrollo del sistema">
             <methodElementProperty xmi:id="_QRa5oBMEEe-z68yt5X_0_A" name="me_edited" value="true"/>
             <presentation xmi:id="-OBO8YpPCNpS-htBueO2mww" href="uma://-OBO8YpPCNpS-htBueO2mww#-OBO8YpPCNpS-htBueO2mww"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_ZQvlEBMEEe-z68yt5X_0_A" name="recorrido_del_cliente" guid="_ZQvlEBMEEe-z68yt5X_0_A" presentationName="recorrido del cliente" briefDescription="El recorrido que tiene el cliente sobre todo el proceso de compra de insumos, en este caso seria el proveedor">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_ZQvlEBMEEe-z68yt5X_0_A" name="recorrido_del_cliente" guid="_ZQvlEBMEEe-z68yt5X_0_A" presentationName="recorrido del cliente" briefDescription="El Recorrido del Cliente es un documento que mapea las interacciones y experiencias del cliente a lo largo de su interacción con la empresa">
             <methodElementProperty xmi:id="_f6W9YBMEEe-z68yt5X_0_A" name="me_edited" value="true"/>
+            <presentation xmi:id="-Bxf1n_-ihjPXO3cpm2sFYA" href="uma://-Bxf1n_-ihjPXO3cpm2sFYA#-Bxf1n_-ihjPXO3cpm2sFYA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_DqYtMBVgEe-rCOB8M4PBzA" name="identificar_situaciones_problematicas" guid="_DqYtMBVgEe-rCOB8M4PBzA" presentationName="Identificar situaciones problematicas" briefDescription="Identificar situaciones problemáticas implica reconocer áreas dentro de la operación de la frutería que presentan desafíos o dificultades, como problemas de inventario, baja demanda de ciertos productos o deficiencias en el servicio al cliente" performedBy="_HSIqcBMEEe-z68yt5X_0_A" mandatoryInput="_ZQvlEBMEEe-z68yt5X_0_A" optionalInput="_o8wroBVtEe-rCOB8M4PBzA">
+            <methodElementProperty xmi:id="_MQau4BVgEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-_s0DWEm-TgxtZeyvIIq-hg" href="uma://-_s0DWEm-TgxtZeyvIIq-hg#-_s0DWEm-TgxtZeyvIIq-hg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_U--acBVgEe-rCOB8M4PBzA" name="identificar_situaciones_deseadas" guid="_U--acBVgEe-rCOB8M4PBzA" presentationName="Identificar Situaciones deseadas" briefDescription="Identificar situaciones deseadas implica reconocer y definir los resultados o condiciones ideales que la frutería busca alcanzar, como altos niveles de satisfacción del cliente, eficiencia en la gestión de inventario y rentabilidad sostenible" performedBy="_HSIqcBMEEe-z68yt5X_0_A" mandatoryInput="_ZQvlEBMEEe-z68yt5X_0_A" output="_o8wroBVtEe-rCOB8M4PBzA">
+            <methodElementProperty xmi:id="_gASy0BVgEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-bMF0eFyqiR9ptQqa9GtBrA" href="uma://-bMF0eFyqiR9ptQqa9GtBrA#-bMF0eFyqiR9ptQqa9GtBrA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_o8wroBVtEe-rCOB8M4PBzA" name="brainstorming" guid="_o8wroBVtEe-rCOB8M4PBzA" presentationName="Brainstorming" briefDescription="El Brainstorming es una sesión creativa que reúne a miembros del equipo para generar ideas y soluciones relacionadas con el proceso de compra de insumos a proveedores en la frutería">
+            <methodElementProperty xmi:id="_uF36gBVtEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-woQWT_FgxzjZLPdyC9C-lw" href="uma://-woQWT_FgxzjZLPdyC9C-lw#-woQWT_FgxzjZLPdyC9C-lw"/>
           </contentElements>
         </childPackages>
-        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oQJZEBMDEe-z68yt5X_0_A" name="realizar_el_modelado_del_negocio" guid="_oQJZEBMDEe-z68yt5X_0_A" presentationName="Realizar el modelado del negocio" briefDescription="Contruir el modelo del negocio que se implementa en la fruteria">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oQJZEBMDEe-z68yt5X_0_A" name="realizar_el_modelado_del_negocio" guid="_oQJZEBMDEe-z68yt5X_0_A" presentationName="Realizar el modelado del negocio" briefDescription="Realizar el modelado del negocio en un desarrollo de software implica visualizar y analizar cómo las diferentes actividades, recursos y socios se integran para crear y entregar valor a los clientes, así como identificar las fuentes de ingresos y los flujos de costos asociados">
           <methodElementProperty xmi:id="_oQJZERMDEe-z68yt5X_0_A" name="pkg_loadCheck" value="true"/>
           <methodElementProperty xmi:id="_tMTxEBMDEe-z68yt5X_0_A" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_iP3BsBVgEe-rCOB8M4PBzA" name="identificar_los_involucrados" guid="_iP3BsBVgEe-rCOB8M4PBzA" presentationName="Identificar los involucrados" briefDescription="Identificar los involucrados implica reconocer a todas las partes interesadas relevantes para la frutería, como clientes, proveedores, empleados y autoridades regulatorias" performedBy="_HSIqcBMEEe-z68yt5X_0_A" output="_CBFEsBVuEe-rCOB8M4PBzA">
+            <methodElementProperty xmi:id="_uPutABVgEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-p34g3WmbvcXxdKjmS2OoZw" href="uma://-p34g3WmbvcXxdKjmS2OoZw#-p34g3WmbvcXxdKjmS2OoZw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_0FQ9ABVgEe-rCOB8M4PBzA" name="identificar_los_casos_de_uso" guid="_0FQ9ABVgEe-rCOB8M4PBzA" presentationName="Identificar los casos de uso" briefDescription="Identificar los casos de uso implica identificar las diferentes interacciones que los usuarios tendrán con el sistema de la frutería, como la compra de productos, la gestión de inventario o la atención al cliente" performedBy="_BObAEBVrEe-rCOB8M4PBzA" mandatoryInput="_CBFEsBVuEe-rCOB8M4PBzA" optionalInput="_Ld8nwBVuEe-rCOB8M4PBzA">
+            <methodElementProperty xmi:id="_73wB4BVgEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-cskfr5ctJxGsFHgH_ORP_g" href="uma://-cskfr5ctJxGsFHgH_ORP_g#-cskfr5ctJxGsFHgH_ORP_g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_DNW9gBVhEe-rCOB8M4PBzA" name="identificar_procesos_y_metas" guid="_DNW9gBVhEe-rCOB8M4PBzA" presentationName="Identificar procesos y metas" briefDescription="Identificar procesos y metas implica reconocer las actividades clave y los objetivos que la frutería debe lograr para operar de manera efectiva y alcanzar el éxito" performedBy="_MP5wgBVrEe-rCOB8M4PBzA" mandatoryInput="_Ld8nwBVuEe-rCOB8M4PBzA" output="_Vx9OMBVuEe-rCOB8M4PBzA">
+            <methodElementProperty xmi:id="_Lws3kBVhEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-PR3R_mBk1oGgPqXpFcEoXw" href="uma://-PR3R_mBk1oGgPqXpFcEoXw#-PR3R_mBk1oGgPqXpFcEoXw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_VR0ogBVhEe-rCOB8M4PBzA" name="identificar_las_relaciones_de_dominio" guid="_VR0ogBVhEe-rCOB8M4PBzA" presentationName="Identificar las relaciones de dominio" briefDescription="Identificar las relaciones de dominio implica reconocer las interacciones y dependencias entre diferentes entidades dentro del contexto de la frutería, como clientes, productos, proveedores y empleados" performedBy="_MP5wgBVrEe-rCOB8M4PBzA" mandatoryInput="_Vx9OMBVuEe-rCOB8M4PBzA" output="_eqBbEBVuEe-rCOB8M4PBzA">
+            <methodElementProperty xmi:id="_eudiEBVhEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-5klKf20W63_e22kWUlZ68A" href="uma://-5klKf20W63_e22kWUlZ68A#-5klKf20W63_e22kWUlZ68A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_jbQoYBVhEe-rCOB8M4PBzA" name="identificar_las_interacciones" guid="_jbQoYBVhEe-rCOB8M4PBzA" presentationName="Identificar las interacciones" briefDescription="Identificar las interacciones implica reconocer cómo se relacionan y comunican diferentes partes interesadas dentro del sistema de la frutería, como clientes, empleados, proveedores y productos" performedBy="_BObAEBVrEe-rCOB8M4PBzA" mandatoryInput="_eqBbEBVuEe-rCOB8M4PBzA" output="_uxspQBVuEe-rCOB8M4PBzA">
+            <methodElementProperty xmi:id="_t0dQ0BVhEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-2Y9wocvCO7KaBvB0aqH9Eg" href="uma://-2Y9wocvCO7KaBvB0aqH9Eg#-2Y9wocvCO7KaBvB0aqH9Eg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_xmxE0BVhEe-rCOB8M4PBzA" name="identificar_el_flujo_de_las_actividades" guid="_xmxE0BVhEe-rCOB8M4PBzA" presentationName="Identificar el flujo de las actividades" briefDescription="Identificar el flujo de las actividades implica reconocer el orden y la secuencia de las acciones que se llevan a cabo en la frutería para realizar diferentes procesos, como la atención al cliente, la gestión de inventario y la compra de productos" performedBy="_BObAEBVrEe-rCOB8M4PBzA" output="_uxspQBVuEe-rCOB8M4PBzA">
+            <methodElementProperty xmi:id="_5kwPEBVhEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-LzqWQKbNdTBnaw2O5MEVLQ" href="uma://-LzqWQKbNdTBnaw2O5MEVLQ#-LzqWQKbNdTBnaw2O5MEVLQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_BObAEBVrEe-rCOB8M4PBzA" name="analista_de_negocio" guid="_BObAEBVrEe-rCOB8M4PBzA" presentationName="Analista de negocio" briefDescription="El Analista de Negocio en el proceso de la frutería interpreta las necesidades del negocio y las traduce en requisitos para el desarrollo del sistema">
+            <methodElementProperty xmi:id="_HTQQUBVrEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-mbbfJ7n0uBHtGnZsHsUE8g" href="uma://-mbbfJ7n0uBHtGnZsHsUE8g#-mbbfJ7n0uBHtGnZsHsUE8g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_MP5wgBVrEe-rCOB8M4PBzA" name="analista_de_requerimientos" guid="_MP5wgBVrEe-rCOB8M4PBzA" presentationName="Analista de requerimientos" briefDescription="El Analista de Requerimientos en el proceso de la frutería identifica y documenta las necesidades funcionales del sistema">
+            <methodElementProperty xmi:id="_VTaYYBVrEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-gVepw7tmpGZhGNIgjaoFQQ" href="uma://-gVepw7tmpGZhGNIgjaoFQQ#-gVepw7tmpGZhGNIgjaoFQQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_CBFEsBVuEe-rCOB8M4PBzA" name="stakeholders" guid="_CBFEsBVuEe-rCOB8M4PBzA" presentationName="Stakeholders" briefDescription="El Artefacto de Stakeholders identifica a las partes interesadas clave involucradas en el proceso de compra de insumos a proveedores en la frutería">
+            <methodElementProperty xmi:id="_Hq_TgBVuEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-maTb7X4aX_Q-9wwS65u62g" href="uma://-maTb7X4aX_Q-9wwS65u62g#-maTb7X4aX_Q-9wwS65u62g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Ld8nwBVuEe-rCOB8M4PBzA" name="diagrama_de_casos_de_uso" guid="_Ld8nwBVuEe-rCOB8M4PBzA" presentationName="Diagrama de casos de uso" briefDescription="El Diagrama de Casos de Uso es una representación visual de las interacciones entre actores y el sistema en el proceso de compra de insumos a proveedores en la frutería">
+            <methodElementProperty xmi:id="_TTckYBVuEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-rVO9ph9G_nmVw-Oim5AP-Q" href="uma://-rVO9ph9G_nmVw-Oim5AP-Q#-rVO9ph9G_nmVw-Oim5AP-Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Vx9OMBVuEe-rCOB8M4PBzA" name="plantilla_de_procesos" guid="_Vx9OMBVuEe-rCOB8M4PBzA" presentationName="Plantilla de procesos" briefDescription="La Plantilla de Procesos es un documento estructurado que describe paso a paso el flujo de trabajo del proceso de compra de insumos a proveedores en la frutería">
+            <methodElementProperty xmi:id="_bI_kUBVuEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-RNDdy7lrIuBcbRQHaykOFw" href="uma://-RNDdy7lrIuBcbRQHaykOFw#-RNDdy7lrIuBcbRQHaykOFw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_eqBbEBVuEe-rCOB8M4PBzA" name="relaciones_de_dominio" guid="_eqBbEBVuEe-rCOB8M4PBzA" presentationName="Relaciones de dominio" briefDescription="Las Relaciones de Dominio son conexiones y dependencias entre entidades clave en el proceso de compra de insumos a proveedores en la frutería">
+            <methodElementProperty xmi:id="_jpEvABVuEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-9kORdgF80c_wHtaS8GJIGg" href="uma://-9kORdgF80c_wHtaS8GJIGg#-9kORdgF80c_wHtaS8GJIGg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_mfW_oBVuEe-rCOB8M4PBzA" name="escenarios_vividos" guid="_mfW_oBVuEe-rCOB8M4PBzA" presentationName="Escenarios vividos" briefDescription="Los Escenarios Vividos son narrativas detalladas que describen situaciones reales o hipotéticas en el proceso de compra de insumos a proveedores en la frutería">
+            <methodElementProperty xmi:id="_rkpecBVuEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-nI8V0XokGyfkDTjc2k8AHw" href="uma://-nI8V0XokGyfkDTjc2k8AHw#-nI8V0XokGyfkDTjc2k8AHw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_uxspQBVuEe-rCOB8M4PBzA" name="diagrama_de_actividades" guid="_uxspQBVuEe-rCOB8M4PBzA" presentationName="Diagrama de actividades" briefDescription="El Diagrama de Actividades es una representación visual de las actividades y flujos de trabajo en el proceso de compra de insumos a proveedores en la frutería">
+            <methodElementProperty xmi:id="_zPTdABVuEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-7EONg_-Y75MZXCCtOTnEEw" href="uma://-7EONg_-Y75MZXCCtOTnEEw#-7EONg_-Y75MZXCCtOTnEEw"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_-T7GMBVcEe-rCOB8M4PBzA" name="elaborar_el_modelo_mental_del_usuario" guid="_-T7GMBVcEe-rCOB8M4PBzA" presentationName="Elaborar el Modelo Mental del usuario" briefDescription="Elaborar el Modelo Mental del usuario en un desarrollo de software consiste en comprender cómo los usuarios perciben, procesan y interactúan con la aplicación, lo que permite diseñar una experiencia intuitiva y satisfactoria que se adapte a sus necesidades y expectativas">
+          <methodElementProperty xmi:id="_-T7GMRVcEe-rCOB8M4PBzA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_B3M_sBVdEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_D4LmsBViEe-rCOB8M4PBzA" name="identificacion_del_formulario" guid="_D4LmsBViEe-rCOB8M4PBzA" presentationName="Identificacion del Formulario" briefDescription="Identificar el formulario implica reconocer el formato o documento utilizado para solicitar insumos a los proveedores dentro del proceso de compra en la frutería" performedBy="_XKZIIBVrEe-rCOB8M4PBzA" optionalInput="_1px7YBVuEe-rCOB8M4PBzA">
+            <methodElementProperty xmi:id="_NPeGMBViEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-bcEVU-rgTianxS5Ooy2TJQ" href="uma://-bcEVU-rgTianxS5Ooy2TJQ#-bcEVU-rgTianxS5Ooy2TJQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_RR9rQBViEe-rCOB8M4PBzA" name="detallar_el_formulario" guid="_RR9rQBViEe-rCOB8M4PBzA" presentationName="Detallar el Formulario" briefDescription="Detallar el formulario implica especificar los elementos y campos que componen el documento utilizado para solicitar insumos a los proveedores dentro del proceso de compra en la frutería" performedBy="_XKZIIBVrEe-rCOB8M4PBzA" mandatoryInput="_1px7YBVuEe-rCOB8M4PBzA" output="_1px7YBVuEe-rCOB8M4PBzA">
+            <methodElementProperty xmi:id="_ZbewEBViEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="--Ahk21-57JcCtTmpTuVuDA" href="uma://--Ahk21-57JcCtTmpTuVuDA#--Ahk21-57JcCtTmpTuVuDA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_f0A_cBViEe-rCOB8M4PBzA" name="identificacion_del_dialogo" guid="_f0A_cBViEe-rCOB8M4PBzA" presentationName="Identificacion del dialogo" briefDescription="Identificar el diálogo del mapa mental implica reconocer las interacciones y conexiones entre los diferentes elementos y conceptos relacionados con el proceso de compra de insumos a proveedores en la frutería" performedBy="_XKZIIBVrEe-rCOB8M4PBzA" output="_CztmEBVvEe-rCOB8M4PBzA">
+            <methodElementProperty xmi:id="_oPvOkBViEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-ixqSw-tj8u4ekGDVCtriJw" href="uma://-ixqSw-tj8u4ekGDVCtriJw#-ixqSw-tj8u4ekGDVCtriJw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_tu4X0BViEe-rCOB8M4PBzA" name="detallar_el_dialogo" guid="_tu4X0BViEe-rCOB8M4PBzA" presentationName="Detallar el dialogo" briefDescription="Detallar el diálogo implica especificar y profundizar en las interacciones y conexiones entre los diferentes elementos y conceptos relacionados con el proceso de compra de insumos a proveedores en la frutería" performedBy="_XKZIIBVrEe-rCOB8M4PBzA" mandatoryInput="_CztmEBVvEe-rCOB8M4PBzA" output="_CztmEBVvEe-rCOB8M4PBzA">
+            <methodElementProperty xmi:id="_4Iw8wBViEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-CDgeK4C9m6Nft2FE0vxvHQ" href="uma://-CDgeK4C9m6Nft2FE0vxvHQ#-CDgeK4C9m6Nft2FE0vxvHQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_XKZIIBVrEe-rCOB8M4PBzA" name="diseador_iu" guid="_XKZIIBVrEe-rCOB8M4PBzA" presentationName="Diseniador IU" briefDescription="El Diseñador UI en el proceso de la frutería crea la interfaz visual del sistema de compra de insumos a proveedores">
+            <methodElementProperty xmi:id="_gmdZ8BVrEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-yTkOhkVnN7cnAhJ2ovKAuw" href="uma://-yTkOhkVnN7cnAhJ2ovKAuw#-yTkOhkVnN7cnAhJ2ovKAuw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_1px7YBVuEe-rCOB8M4PBzA" name="formulario_en_papel" guid="_1px7YBVuEe-rCOB8M4PBzA" presentationName="Formulario en Papel" briefDescription="El Formulario en Papel es un documento impreso utilizado para recopilar información manualmente durante el proceso de compra de insumos a proveedores en la frutería">
+            <methodElementProperty xmi:id="_9OGBYBVuEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-OS-ITjebyKV0ZI9g1u-69Q" href="uma://-OS-ITjebyKV0ZI9g1u-69Q#-OS-ITjebyKV0ZI9g1u-69Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_CztmEBVvEe-rCOB8M4PBzA" name="dialogo" guid="_CztmEBVvEe-rCOB8M4PBzA" presentationName="Dialogo" briefDescription="El Diálogo del Modelo Mental es una representación de las interacciones y decisiones mentales que tienen lugar durante el proceso de compra de insumos a proveedores en la frutería">
+            <methodElementProperty xmi:id="_PDG7IBVvEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-fMu_VTi8818K98su3mJI7A" href="uma://-fMu_VTi8818K98su3mJI7A#-fMu_VTi8818K98su3mJI7A"/>
+          </contentElements>
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_oo9XLRMCEe-z68yt5X_0_A" name="CapabilityPatterns" guid="_oo9XLRMCEe-z68yt5X_0_A"/>

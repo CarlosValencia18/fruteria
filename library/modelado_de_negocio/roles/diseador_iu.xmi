@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-yTkOhkVnN7cnAhJ2ovKAuw" name="new_role,_XKZIIBVrEe-rCOB8M4PBzA" guid="-yTkOhkVnN7cnAhJ2ovKAuw" changeDate="2024-05-18T18:07:42.205-0500">
+  <mainDescription>El Diseñador UI en el proceso de la frutería se encarga de diseñar la apariencia visual de la aplicación, incluyendo diseño&#xD;
+de pantallas, disposición de elementos, paleta de colores y estilo visual. Trabaja en estrecha colaboración con el equipo&#xD;
+de desarrollo y los analistas de negocio para comprender los requisitos funcionales y de diseño del sistema. Además,&#xD;
+realiza pruebas de usabilidad para asegurar que la interfaz de usuario sea fácil de usar y satisfaga las necesidades del&#xD;
+usuario final. El Diseñador UI también puede crear prototipos interactivos y realizar iteraciones basadas en&#xD;
+retroalimentación de los usuarios para mejorar continuamente el diseño</mainDescription>
+  <keyConsiderations>Diseñador UI, interfaz de usuario, diseño visual, usabilidad, prototipado</keyConsiderations>
+  <skills>Dominio de herramientas de diseño gráfico y prototipado, conocimiento de principios de diseño de interfaz de usuario,&#xD;
+capacidad para trabajar en equipo y comunicar ideas visualmente, comprensión de las tendencias de diseño y experiencia del&#xD;
+usuario</skills>
+  <assignmentApproaches>Crear diseños visuales para las interfaces de usuario del sistema, colaborar con el equipo de desarrollo para garantizar la&#xD;
+viabilidad técnica de los diseños propuestos, realizar pruebas de usabilidad y obtener retroalimentación de los usuarios,&#xD;
+iterar en el diseño basado en la retroalimentación recibida, asegurar la coherencia del diseño en todas las partes del&#xD;
+sistema</assignmentApproaches>
+  <synonyms>Diseñador de Experiencia de Usuario, Diseñador de Interfaz de Usuario, Especialista en Diseño de UI</synonyms>
+</org.eclipse.epf.uma:RoleDescription>

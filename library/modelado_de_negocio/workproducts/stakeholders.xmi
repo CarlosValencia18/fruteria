@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-maTb7X4aX_Q-9wwS65u62g" name="new_artifact,_CBFEsBVuEe-rCOB8M4PBzA" guid="-maTb7X4aX_Q-9wwS65u62g" changeDate="2024-05-18T18:26:42.770-0500">
+  <mainDescription>El Artefacto de Stakeholders es un documento que identifica a todas las partes interesadas relevantes para el proceso de&#xD;
+compra de insumos a proveedores en la frutería. Esto puede incluir propietarios de la frutería, gerentes, empleados de&#xD;
+compras, proveedores, personal de entrega, entre otros. El documento proporciona información detallada sobre el papel, las&#xD;
+necesidades, las expectativas y el nivel de influencia de cada stakeholder en el proceso. El objetivo es comprender cómo&#xD;
+las decisiones y acciones pueden afectar a estas partes interesadas, y cómo pueden contribuir al éxito general del proceso.&#xD;
+El Artefacto de Stakeholders es una herramienta crucial para establecer y mantener relaciones efectivas con las partes&#xD;
+interesadas, alinear los objetivos del negocio y garantizar que se aborden adecuadamente todas las perspectivas relevantes</mainDescription>
+  <keyConsiderations>Stakeholders, Partes Interesadas, Colaboración, Roles, Expectativas</keyConsiderations>
+  <purpose>Su propósito es identificar y comprender las necesidades, expectativas y roles de las partes interesadas relevantes para el&#xD;
+proceso, para garantizar una colaboración efectiva y una toma de decisiones informada</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

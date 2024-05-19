@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7EONg_-Y75MZXCCtOTnEEw" name="new_artifact,_uxspQBVuEe-rCOB8M4PBzA" guid="-7EONg_-Y75MZXCCtOTnEEw" changeDate="2024-05-18T18:31:34.306-0500">
+  <mainDescription>El Diagrama de Actividades es una herramienta de modelado que describe el flujo de trabajo y las actividades dentro del&#xD;
+proceso de compra de insumos a proveedores en la frutería. Utiliza símbolos gráficos para representar las actividades, las&#xD;
+decisiones, los flujos de control y los puntos de decisión del proceso. Cada actividad se representa como un rectángulo,&#xD;
+con flechas que indican la secuencia de actividades y las decisiones que se toman en cada etapa. El diagrama ayuda a&#xD;
+visualizar cómo se ejecuta el proceso en la práctica, identificar posibles cuellos de botella o redundancias, y optimizar&#xD;
+la secuencia de actividades para mejorar la eficiencia y la calidad del proceso</mainDescription>
+  <keyConsiderations>Diagrama de Actividades, Modelado, Flujo de Trabajo, Secuencia, Optimización</keyConsiderations>
+  <purpose>Su propósito es modelar y analizar las actividades del proceso, mostrando cómo se llevan a cabo en secuencia y qué&#xD;
+decisiones se toman en cada etapa</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

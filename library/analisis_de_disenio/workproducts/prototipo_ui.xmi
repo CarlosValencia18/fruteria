@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0HtzL1R2Qlxk6zacXE45dA" name="new_artifact,_I_60MBVwEe-rCOB8M4PBzA" guid="-0HtzL1R2Qlxk6zacXE45dA" changeDate="2024-05-18T18:42:01.092-0500">
+  <mainDescription>El Prototipo de Interfaz de Usuario (UI) es una maqueta visual o interactiva que muestra cómo será la interfaz de usuario&#xD;
+del sistema durante el proceso de compra de insumos a proveedores en la frutería. Puede incluir elementos como pantallas,&#xD;
+botones, campos de entrada y otros componentes de la interfaz, diseñados para representar la apariencia y la interacción&#xD;
+del sistema final. El prototipo puede ser de baja fidelidad (bocetos simples) o de alta fidelidad (diseños más detallados y&#xD;
+realistas), y puede ser estático o interactivo, dependiendo de las necesidades del proyecto. El prototipo de UI es una&#xD;
+herramienta invaluable para validar y refinar los requisitos del usuario, comunicar el diseño del sistema a los interesados&#xD;
+y realizar pruebas de usabilidad antes de la implementación final</mainDescription>
+  <keyConsiderations>Prototipo de Interfaz de Usuario, UI, Diseño Visual, Usabilidad, Maquetación</keyConsiderations>
+  <purpose>Su propósito es proporcionar una vista preliminar de cómo será la interfaz de usuario final, permitiendo a los usuarios y&#xD;
+diseñadores visualizar y probar la funcionalidad y el flujo de la aplicación</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

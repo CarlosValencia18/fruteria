@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-GLZktGYOfD332Fmp8vfHFA" name=",_8AwiABViEe-rCOB8M4PBzA" guid="-GLZktGYOfD332Fmp8vfHFA" changeDate="2024-05-18T17:08:28.227-0500">
+  <mainDescription>Implementar el modelo mental del usuario en el formulario de papel en el proceso de compra de insumos a proveedores en la&#xD;
+frutería implica diseñar el formulario teniendo en cuenta cómo los usuarios esperan interactuar con él y qué información&#xD;
+consideran relevante. Esto puede implicar la organización de los campos y secciones de manera lógica y coherente, el uso de&#xD;
+un lenguaje claro y comprensible, y la inclusión de elementos visuales que faciliten la navegación y la comprensión. Al&#xD;
+implementar el modelo mental del usuario en el formulario de papel, se busca mejorar la experiencia del usuario y aumentar&#xD;
+la eficiencia en el proceso de compra</mainDescription>
+  <keyConsiderations>Implementar, modelo mental del usuario, formulario de papel, proceso de compra, experiencia del usuario</keyConsiderations>
+  <purpose>El propósito de esta tarea es crear un formulario de papel que sea intuitivo y fácil de usar para los usuarios, alineado&#xD;
+con su modelo mental y que facilite la ejecución eficiente del proceso de compra</purpose>
+  <alternatives>Diseño del formulario de papel basado en el modelo mental del usuario, Organización lógica de los campos y secciones del&#xD;
+formulario, Uso de lenguaje claro y comprensible en el formulario, Inclusión de elementos visuales para facilitar la&#xD;
+navegación y la comprensión, Pruebas y ajustes del formulario para garantizar su eficacia y usabilidad</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

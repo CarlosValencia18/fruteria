@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-UDik1LqwjgFIvTFv-NP1Fw" name="new_artifact,_ZjKHkBVxEe-rCOB8M4PBzA" guid="-UDik1LqwjgFIvTFv-NP1Fw" changeDate="2024-05-18T18:50:53.328-0500">
+  <mainDescription>La base de datos SQL (Structured Query Language) es un sistema de gestión de bases de datos relacional que se utiliza para&#xD;
+almacenar y gestionar datos estructurados en el contexto del proceso de compra de insumos a proveedores en la frutería.&#xD;
+Esta base de datos utiliza el lenguaje SQL para definir esquemas, crear tablas, realizar consultas y realizar operaciones&#xD;
+de manipulación de datos. Puede almacenar información sobre proveedores, productos, pedidos, inventario, clientes y otros&#xD;
+aspectos del negocio. La base de datos SQL proporciona funcionalidades como integridad de datos, seguridad, transacciones y&#xD;
+capacidades de consulta avanzadas, lo que la hace adecuada para aplicaciones empresariales críticas. Además, ofrece&#xD;
+escalabilidad y rendimiento para manejar grandes volúmenes de datos y cargas de trabajo intensivas</mainDescription>
+  <keyConsiderations>Base de Datos SQL, Gestión de Datos, Consultas SQL, Seguridad de Datos, Escalabilidad</keyConsiderations>
+  <purpose>Su propósito es almacenar y gestionar de manera eficiente los datos relacionados con proveedores, productos, pedidos,&#xD;
+inventario y otras entidades relevantes para el proceso</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

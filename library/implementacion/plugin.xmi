@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
-  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_jCk9cBMCEe-z68yt5X_0_A" guid="_jCk9cBMCEe-z68yt5X_0_A"/>
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_jCk9cBMCEe-z68yt5X_0_A" guid="_jCk9cBMCEe-z68yt5X_0_A">
+    <resourceDescriptors xmi:id="_8Cl7wBVnEe-rCOB8M4PBzA" id="-CtxAY-L1pTfDzVxtNffIDw" uri="tasks/diseniar_la_ui_en_base_a_los_prototipos.xmi"/>
+    <resourceDescriptors xmi:id="_GCpEYBVoEe-rCOB8M4PBzA" id="-f4RTThkXsn5HpS8kR4yhag" uri="tasks/mejorar_interfaz_a_partir_de_usabillidad_y_experiencia_de_usuario.xmi"/>
+    <resourceDescriptors xmi:id="_S8o1oBVoEe-rCOB8M4PBzA" id="-xNt5dwFYiCAwFNPb7tLz6w" uri="tasks/implementacion_de_las_interfaces_en_codigo.xmi"/>
+    <resourceDescriptors xmi:id="_eru6AhVoEe-rCOB8M4PBzA" id="-yA2Q-UbJRUN3yaoQR26okg" uri="tasks/crear_base_de_datos.xmi"/>
+    <resourceDescriptors xmi:id="_w8bqMhVoEe-rCOB8M4PBzA" id="--W1rDyDjQQD4-SGkepIF7A" uri="tasks/implementacion_de_los_servicios_backend.xmi"/>
+    <resourceDescriptors xmi:id="_Cdwy8BVpEe-rCOB8M4PBzA" id="-786Fr6wZZ7RwKPxQuCpjeQ" uri="tasks/conexin_de_codigo_entre_backend_y_frontend.xmi"/>
+    <resourceDescriptors xmi:id="_PXNKkRVpEe-rCOB8M4PBzA" id="-nZrlzmjSbgArU6EWIJQx1Q" uri="tasks/versionamiento_del_proyecto.xmi"/>
+    <resourceDescriptors xmi:id="_jJ8VQhVpEe-rCOB8M4PBzA" id="-V3sy_W5CJlofudsch-abkw" uri="tasks/optimizacin_del_codigo_y_seguridad.xmi"/>
+    <resourceDescriptors xmi:id="_vCfQkhVpEe-rCOB8M4PBzA" id="-gjV3mkh7MX4mT2i0JmYTUQ" uri="tasks/realizacion_de_test_funcionales.xmi"/>
+    <resourceDescriptors xmi:id="_RY4nEhVsEe-rCOB8M4PBzA" id="-Wr-9fopR4ARtpmVm64gOgw" uri="roles/diseniador_iu.xmi"/>
+    <resourceDescriptors xmi:id="_gpSPABVsEe-rCOB8M4PBzA" id="-4j-q1mXA_10lTTDwQfdQ6A" uri="roles/programador.xmi"/>
+    <resourceDescriptors xmi:id="_nDSeARVsEe-rCOB8M4PBzA" id="-T42RChbXCo2aEC-u53Knaw" uri="roles/programador%202.xmi"/>
+    <resourceDescriptors xmi:id="_5qzLshVsEe-rCOB8M4PBzA" id="-J6QWU0TPLC444skKdpk0IA" uri="roles/ingeniero_de_pruebas.xmi"/>
+    <resourceDescriptors xmi:id="_c8PYsBVwEe-rCOB8M4PBzA" id="-U8cXrhCy6MYD6kcvt_ZADA" uri="workproducts/diseo_ui.xmi"/>
+    <resourceDescriptors xmi:id="_IUdm8BVxEe-rCOB8M4PBzA" id="-zMkoiiS1Ubxy9aU9P1IH8A" uri="workproducts/github.xmi"/>
+    <resourceDescriptors xmi:id="_NwXO8BVxEe-rCOB8M4PBzA" id="-5vM_KHZ2P5WNLxR0h_FBIA" uri="workproducts/api%202.xmi"/>
+    <resourceDescriptors xmi:id="_Sy3fgBVxEe-rCOB8M4PBzA" id="-BLvTp1oGKFfxZ1mw0xQSPQ" uri="workproducts/node%202.xmi"/>
+    <resourceDescriptors xmi:id="_YmPMURVxEe-rCOB8M4PBzA" id="-g9-WqxcK4sf9cBeL2uBcaw" uri="workproducts/react%202.xmi"/>
+    <resourceDescriptors xmi:id="_e_d_QhVxEe-rCOB8M4PBzA" id="-UDik1LqwjgFIvTFv-NP1Fw" uri="workproducts/sql%202.xmi"/>
+    <resourceDescriptors xmi:id="_krBM0hVxEe-rCOB8M4PBzA" id="-0YOqeUd-eTPBdKJYITCAOg" uri="workproducts/node.xmi"/>
+    <resourceDescriptors xmi:id="_tnCsoBVxEe-rCOB8M4PBzA" id="-DQqgcdjQ3Pui6Hr9gM4mPw" uri="workproducts/rest_client.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_jCgsABMCEe-z68yt5X_0_A" name="implementacion" guid="_jCgsABMCEe-z68yt5X_0_A" presentationName="implementacion" briefDescription="Implementacion de la funcionalidad de software" authors="adrian">
     <methodElementProperty xmi:id="_kLu94BMCEe-z68yt5X_0_A" name="me_edited" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_jCgsARMCEe-z68yt5X_0_A" name="Content" guid="_jCgsARMCEe-z68yt5X_0_A">
@@ -17,7 +39,104 @@
           </childPackages>
         </childPackages>
       </childPackages>
-      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_jCgsDBMCEe-z68yt5X_0_A" name="CoreContent" guid="_jCgsDBMCEe-z68yt5X_0_A"/>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_jCgsDBMCEe-z68yt5X_0_A" name="CoreContent" guid="_jCgsDBMCEe-z68yt5X_0_A">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_tN_qkBVdEe-rCOB8M4PBzA" name="elaboracion_de_la_interfaz_de_usuario" guid="_tN_qkBVdEe-rCOB8M4PBzA" presentationName="Elaboracion de la interfaz de usuario" briefDescription="La elaboración de la interfaz de usuario en un desarrollo de software involucra la traducción del diseño conceptual en elementos concretos y funcionales dentro de la aplicación, asegurando coherencia visual, flujo intuitivo y respuesta adecuada a las acciones del usuario para ofrecer una experiencia de usuario satisfactoria y eficiente">
+          <methodElementProperty xmi:id="_tN_qkRVdEe-rCOB8M4PBzA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_wE5mQBVdEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_wKByUBVnEe-rCOB8M4PBzA" name="diseniar_la_ui_en_base_a_los_prototipos" guid="_wKByUBVnEe-rCOB8M4PBzA" presentationName="Diseniar la UI en base a los prototipos" briefDescription="Diseñar la UI en base a los prototipos implica crear la interfaz de usuario del sistema de compra de insumos a proveedores en la frutería basándose en los diseños preliminares o prototipos previamente desarrollados" performedBy="_M_838BVsEe-rCOB8M4PBzA" output="_W-Le0BVwEe-rCOB8M4PBzA">
+            <methodElementProperty xmi:id="_8Cf1IBVnEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-CtxAY-L1pTfDzVxtNffIDw" href="uma://-CtxAY-L1pTfDzVxtNffIDw#-CtxAY-L1pTfDzVxtNffIDw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_-66MsBVnEe-rCOB8M4PBzA" name="mejorar_interfaz_a_partir_de_usabillidad_y_experiencia_de_usuario" guid="_-66MsBVnEe-rCOB8M4PBzA" presentationName="Mejorar interfaz a partir de usabillidad y experiencia de usuario" briefDescription="Mejorar la interfaz a partir de usabilidad y experiencia de usuario implica realizar ajustes y optimizaciones en la interfaz de usuario del sistema de compra de insumos a proveedores en la frutería basándose en retroalimentación y pruebas de usabilidad" performedBy="_M_838BVsEe-rCOB8M4PBzA" mandatoryInput="_W-Le0BVwEe-rCOB8M4PBzA" output="_W-Le0BVwEe-rCOB8M4PBzA">
+            <methodElementProperty xmi:id="_GCmBEBVoEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-f4RTThkXsn5HpS8kR4yhag" href="uma://-f4RTThkXsn5HpS8kR4yhag#-f4RTThkXsn5HpS8kR4yhag"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_M_838BVsEe-rCOB8M4PBzA" name="diseniador_iu" guid="_M_838BVsEe-rCOB8M4PBzA" presentationName="Diseniador IU" briefDescription="El Diseñador UI en el proceso de la frutería crea la interfaz visual del sistema de compra de insumos a proveedores">
+            <methodElementProperty xmi:id="_RY4nEBVsEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-Wr-9fopR4ARtpmVm64gOgw" href="uma://-Wr-9fopR4ARtpmVm64gOgw#-Wr-9fopR4ARtpmVm64gOgw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_W-Le0BVwEe-rCOB8M4PBzA" name="diseo_ui" guid="_W-Le0BVwEe-rCOB8M4PBzA" presentationName="Diseño UI" briefDescription="El Diseño de Interfaz de Usuario (UI) es el proceso de crear la apariencia visual y la interacción de la interfaz de usuario durante el proceso de compra de insumos a proveedores en la frutería">
+            <methodElementProperty xmi:id="_c8NjgBVwEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-U8cXrhCy6MYD6kcvt_ZADA" href="uma://-U8cXrhCy6MYD6kcvt_ZADA#-U8cXrhCy6MYD6kcvt_ZADA"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_zbzQoBVdEe-rCOB8M4PBzA" name="desarrollo_de_la_aplicacion" guid="_zbzQoBVdEe-rCOB8M4PBzA" presentationName="Desarrollo de la aplicacion" briefDescription="El desarrollo de la aplicación en un proyecto de software implica la implementación del código y la lógica detrás de la interfaz de usuario y otras funcionalidades, utilizando las tecnologías adecuadas y siguiendo las mejores prácticas de programación para garantizar un producto final robusto, eficiente y que cumpla con los requisitos del usuario y del negocio">
+          <methodElementProperty xmi:id="_zbzQoRVdEe-rCOB8M4PBzA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_1whsUBVdEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_H6vOcBVoEe-rCOB8M4PBzA" name="implementacion_de_las_interfaces_en_codigo" guid="_H6vOcBVoEe-rCOB8M4PBzA" presentationName="Implementacion de las interfaces en codigo" performedBy="_XiSOQBVsEe-rCOB8M4PBzA" output="_PAs1cBVxEe-rCOB8M4PBzA">
+            <methodElementProperty xmi:id="_S8kkMBVoEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-xNt5dwFYiCAwFNPb7tLz6w" href="uma://-xNt5dwFYiCAwFNPb7tLz6w#-xNt5dwFYiCAwFNPb7tLz6w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Xkr-0BVoEe-rCOB8M4PBzA" name="crear_base_de_datos" guid="_Xkr-0BVoEe-rCOB8M4PBzA" presentationName="Crear base de datos" briefDescription="Crear la base de datos implica diseñar y desarrollar la estructura de almacenamiento de datos para el sistema de compra de insumos a proveedores en la frutería" performedBy="_XiSOQBVsEe-rCOB8M4PBzA" output="_ZjKHkBVxEe-rCOB8M4PBzA">
+            <methodElementProperty xmi:id="_eru6ABVoEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-yA2Q-UbJRUN3yaoQR26okg" href="uma://-yA2Q-UbJRUN3yaoQR26okg#-yA2Q-UbJRUN3yaoQR26okg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_kfnkMBVoEe-rCOB8M4PBzA" name="implementacion_de_los_servicios_backend" guid="_kfnkMBVoEe-rCOB8M4PBzA" presentationName="Implementacion de los servicios backend" briefDescription="Implementar los servicios backend implica desarrollar la lógica de negocio y la funcionalidad del sistema de compra de insumos a proveedores en la frutería en el lado del servidor" performedBy="_XiSOQBVsEe-rCOB8M4PBzA" mandatoryInput="_ZjKHkBVxEe-rCOB8M4PBzA" output="_PAs1cBVxEe-rCOB8M4PBzA">
+            <methodElementProperty xmi:id="_w8bqMBVoEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="--W1rDyDjQQD4-SGkepIF7A" href="uma://--W1rDyDjQQD4-SGkepIF7A#--W1rDyDjQQD4-SGkepIF7A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_2OvRUBVoEe-rCOB8M4PBzA" name="conexin_de_codigo_entre_backend_y_frontend" guid="_2OvRUBVoEe-rCOB8M4PBzA" presentationName="Conexión de codigo entre backend y frontend" briefDescription="La conexión de código entre backend y frontend implica establecer la comunicación entre la parte del servidor y la parte del cliente en el sistema de compra de insumos a proveedores en la frutería" performedBy="_XiSOQBVsEe-rCOB8M4PBzA" mandatoryInput="_VGiyUBVxEe-rCOB8M4PBzA _PAs1cBVxEe-rCOB8M4PBzA" output="_J9A5IBVxEe-rCOB8M4PBzA">
+            <methodElementProperty xmi:id="_Cdu9wBVpEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-786Fr6wZZ7RwKPxQuCpjeQ" href="uma://-786Fr6wZZ7RwKPxQuCpjeQ#-786Fr6wZZ7RwKPxQuCpjeQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_XiSOQBVsEe-rCOB8M4PBzA" name="programador" guid="_XiSOQBVsEe-rCOB8M4PBzA" presentationName="Programador" briefDescription="El Programador en el proceso de la frutería desarrolla y codifica el software del sistema de compra de insumos a proveedores">
+            <methodElementProperty xmi:id="_gpMIYBVsEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-4j-q1mXA_10lTTDwQfdQ6A" href="uma://-4j-q1mXA_10lTTDwQfdQ6A#-4j-q1mXA_10lTTDwQfdQ6A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_J9A5IBVxEe-rCOB8M4PBzA" name="api" guid="_J9A5IBVxEe-rCOB8M4PBzA" presentationName="API" briefDescription="Una API (Interfaz de Programación de Aplicaciones) es un conjunto de reglas y definiciones que permite que diferentes aplicaciones se comuniquen entre sí en el proceso de compra de insumos a proveedores en la frutería">
+            <methodElementProperty xmi:id="_NwVZwBVxEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-5vM_KHZ2P5WNLxR0h_FBIA" href="uma://-5vM_KHZ2P5WNLxR0h_FBIA#-5vM_KHZ2P5WNLxR0h_FBIA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_PAs1cBVxEe-rCOB8M4PBzA" name="node" guid="_PAs1cBVxEe-rCOB8M4PBzA" presentationName="Node" briefDescription="La aplicación Node es una aplicación basada en Node.js utilizada en el proceso de compra de insumos a proveedores en la frutería">
+            <methodElementProperty xmi:id="_Sy1qUBVxEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-BLvTp1oGKFfxZ1mw0xQSPQ" href="uma://-BLvTp1oGKFfxZ1mw0xQSPQ#-BLvTp1oGKFfxZ1mw0xQSPQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_VGiyUBVxEe-rCOB8M4PBzA" name="react" guid="_VGiyUBVxEe-rCOB8M4PBzA" presentationName="React" briefDescription="La aplicación React es una aplicación web desarrollada utilizando la biblioteca de JavaScript React, que se utiliza en el proceso de compra de insumos a proveedores en la frutería">
+            <methodElementProperty xmi:id="_YmJFsBVxEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-g9-WqxcK4sf9cBeL2uBcaw" href="uma://-g9-WqxcK4sf9cBeL2uBcaw#-g9-WqxcK4sf9cBeL2uBcaw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_ZjKHkBVxEe-rCOB8M4PBzA" name="sql" guid="_ZjKHkBVxEe-rCOB8M4PBzA" presentationName="SQL" briefDescription="La base de datos SQL es un sistema de gestión de bases de datos relacional utilizado en el proceso de compra de insumos a proveedores en la frutería">
+            <methodElementProperty xmi:id="_e_d_QBVxEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-UDik1LqwjgFIvTFv-NP1Fw" href="uma://-UDik1LqwjgFIvTFv-NP1Fw#-UDik1LqwjgFIvTFv-NP1Fw"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6tNBsBVdEe-rCOB8M4PBzA" name="implementacion_de_aplicacion" guid="_6tNBsBVdEe-rCOB8M4PBzA" presentationName="Implementacion de aplicacion" briefDescription="La implementación de la aplicación en un proyecto de software es el proceso de llevar a cabo el despliegue del software en un entorno operativo, asegurando que todos los componentes estén configurados y funcionen correctamente. Esto implica la instalación, configuración y pruebas en diferentes sistemas, garantizando que la aplicación esté lista para su uso por parte de los usuarios finales">
+          <methodElementProperty xmi:id="_6tNBsRVdEe-rCOB8M4PBzA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_-F8fIBVdEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ERv5EBVpEe-rCOB8M4PBzA" name="versionamiento_del_proyecto" guid="_ERv5EBVpEe-rCOB8M4PBzA" presentationName="Versionamiento del proyecto" briefDescription="El versionamiento del proyecto implica gestionar y controlar las diferentes versiones del código y los recursos del sistema de compra de insumos a proveedores en la frutería a lo largo del tiempo" performedBy="_XiSOQBVsEe-rCOB8M4PBzA" mandatoryInput="_J9A5IBVxEe-rCOB8M4PBzA" output="_DZXl8BVxEe-rCOB8M4PBzA">
+            <methodElementProperty xmi:id="_PXKuUBVpEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-nZrlzmjSbgArU6EWIJQx1Q" href="uma://-nZrlzmjSbgArU6EWIJQx1Q#-nZrlzmjSbgArU6EWIJQx1Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_bLM9EBVpEe-rCOB8M4PBzA" name="optimizacin_del_codigo_y_seguridad" guid="_bLM9EBVpEe-rCOB8M4PBzA" presentationName="Optimización del codigo y seguridad" briefDescription="La optimización del código y la seguridad implican mejorar el rendimiento y la robustez del sistema de compra de insumos a proveedores en la frutería mediante la optimización del código y la implementación de medidas de seguridad" performedBy="_iWJZcBVsEe-rCOB8M4PBzA" mandatoryInput="_PAs1cBVxEe-rCOB8M4PBzA" output="_hfpdABVxEe-rCOB8M4PBzA">
+            <methodElementProperty xmi:id="_jJ8VQBVpEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-V3sy_W5CJlofudsch-abkw" href="uma://-V3sy_W5CJlofudsch-abkw#-V3sy_W5CJlofudsch-abkw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_nkt3cBVpEe-rCOB8M4PBzA" name="realizacion_de_test_funcionales" guid="_nkt3cBVpEe-rCOB8M4PBzA" presentationName="Realizacion de Test funcionales" briefDescription="La realización de test funcionales implica verificar que todas las funciones del sistema de compra de insumos a proveedores en la frutería funcionen según lo esperado" performedBy="_x612YBVsEe-rCOB8M4PBzA" mandatoryInput="_hfpdABVxEe-rCOB8M4PBzA" output="_o7Gh8BVxEe-rCOB8M4PBzA">
+            <methodElementProperty xmi:id="_vCfQkBVpEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-gjV3mkh7MX4mT2i0JmYTUQ" href="uma://-gjV3mkh7MX4mT2i0JmYTUQ#-gjV3mkh7MX4mT2i0JmYTUQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_iWJZcBVsEe-rCOB8M4PBzA" name="programador" guid="_iWJZcBVsEe-rCOB8M4PBzA" presentationName="Programador" briefDescription="El Programador en el proceso de la frutería desarrolla y codifica el software del sistema de compra de insumos a proveedores">
+            <methodElementProperty xmi:id="_nDLwUBVsEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-T42RChbXCo2aEC-u53Knaw" href="uma://-T42RChbXCo2aEC-u53Knaw#-T42RChbXCo2aEC-u53Knaw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_x612YBVsEe-rCOB8M4PBzA" name="ingeniero_de_pruebas" guid="_x612YBVsEe-rCOB8M4PBzA" presentationName="Ingeniero de pruebas" briefDescription="El Ingeniero de Pruebas en el proceso de la frutería se encarga de asegurar la calidad y funcionalidad del sistema de compra de insumos a proveedores mediante la realización de pruebas exhaustivas">
+            <methodElementProperty xmi:id="_5qzLsBVsEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-J6QWU0TPLC444skKdpk0IA" href="uma://-J6QWU0TPLC444skKdpk0IA#-J6QWU0TPLC444skKdpk0IA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_DZXl8BVxEe-rCOB8M4PBzA" name="github" guid="_DZXl8BVxEe-rCOB8M4PBzA" presentationName="GitHub" briefDescription="Un repositorio GitHub es un espacio de almacenamiento en línea utilizado para gestionar y colaborar en el código fuente del proceso de compra de insumos a proveedores en la frutería">
+            <methodElementProperty xmi:id="_IUbxwBVxEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-zMkoiiS1Ubxy9aU9P1IH8A" href="uma://-zMkoiiS1Ubxy9aU9P1IH8A#-zMkoiiS1Ubxy9aU9P1IH8A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_hfpdABVxEe-rCOB8M4PBzA" name="node" guid="_hfpdABVxEe-rCOB8M4PBzA" presentationName="Node" briefDescription="La aplicación Node es una aplicación basada en Node.js utilizada en el proceso de compra de insumos a proveedores en la frutería">
+            <methodElementProperty xmi:id="_krBM0BVxEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-0YOqeUd-eTPBdKJYITCAOg" href="uma://-0YOqeUd-eTPBdKJYITCAOg#-0YOqeUd-eTPBdKJYITCAOg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_o7Gh8BVxEe-rCOB8M4PBzA" name="rest_client" guid="_o7Gh8BVxEe-rCOB8M4PBzA" presentationName="REST Client" briefDescription="Un cliente REST es una aplicación que permite realizar solicitudes y recibir respuestas desde un servicio web RESTful en el proceso de compra de insumos a proveedores en la frutería">
+            <methodElementProperty xmi:id="_tnAQYBVxEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-DQqgcdjQ3Pui6Hr9gM4mPw" href="uma://-DQqgcdjQ3Pui6Hr9gM4mPw#-DQqgcdjQ3Pui6Hr9gM4mPw"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_jCgsDRMCEe-z68yt5X_0_A" name="CapabilityPatterns" guid="_jCgsDRMCEe-z68yt5X_0_A"/>
     </methodPackages>
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_jCgsDhMCEe-z68yt5X_0_A" name="DeliveryProcesses" guid="_jCgsDhMCEe-z68yt5X_0_A"/>

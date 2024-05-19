@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-h_FuDO82DT4X1r2KQFciew" name=",_wNPbMBVjEe-rCOB8M4PBzA" guid="-h_FuDO82DT4X1r2KQFciew" changeDate="2024-05-18T17:13:03.497-0500">
+  <mainDescription>Identificar los involucrados que utilizan tecnología en el proceso de compra de insumos a proveedores en la frutería&#xD;
+implica identificar las partes interesadas que interactúan con sistemas y herramientas tecnológicas durante el proceso.&#xD;
+Esto puede incluir a los empleados que utilizan software de gestión de compras, los proveedores que reciben pedidos a&#xD;
+través de plataformas en línea, los gerentes que supervisan el proceso mediante sistemas de seguimiento, entre otros. Al&#xD;
+identificar estos involucrados, se puede entender mejor cómo se utiliza la tecnología en el proceso de compra y cómo se&#xD;
+pueden optimizar las herramientas digitales para mejorar la eficiencia y la efectividad del proceso</mainDescription>
+  <keyConsiderations>Involucrados, tecnología, sistemas, herramientas digitales, proceso de compra</keyConsiderations>
+  <purpose>El propósito de esta tarea es comprender quiénes son los usuarios que utilizan tecnología en el proceso de compra y cómo se&#xD;
+relacionan con los sistemas y herramientas digitales</purpose>
+  <alternatives>Identificación de empleados que utilizan software de gestión de compras, Reconocimiento de proveedores que reciben pedidos&#xD;
+a través de plataformas en línea, Análisis de gerentes que supervisan el proceso mediante sistemas de seguimiento,&#xD;
+Evaluación de la efectividad de las herramientas digitales utilizadas en el proceso de compra, Desarrollo de&#xD;
+recomendaciones para optimizar el uso de la tecnología en el proceso de compra</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

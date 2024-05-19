@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-5klKf20W63_e22kWUlZ68A" name=",_VR0ogBVhEe-rCOB8M4PBzA" guid="-5klKf20W63_e22kWUlZ68A" changeDate="2024-05-18T16:55:44.669-0500">
+  <mainDescription>Identificar las relaciones de dominio en una frutería implica analizar cómo interactúan y dependen entre sí diferentes&#xD;
+entidades dentro del sistema. Por ejemplo, cómo los clientes interactúan con los productos ofrecidos, cómo los proveedores&#xD;
+suministran productos a la frutería, cómo los empleados gestionan el inventario y atienden a los clientes, entre otros. Al&#xD;
+identificar estas relaciones de dominio, se puede diseñar una arquitectura de sistema adecuada que refleje con precisión la&#xD;
+complejidad y las interacciones del negocio</mainDescription>
+  <keyConsiderations>Relaciones de dominio, interacciones, dependencias, entidades, gestión del negocio</keyConsiderations>
+  <purpose>El propósito de esta tarea es comprender cómo se relacionan y afectan mutuamente las diversas partes involucradas en la&#xD;
+operación de la frutería para facilitar la gestión eficiente y efectiva del negocio</purpose>
+  <alternatives>Identificación de interacciones entre entidades en la frutería, Reconocimiento de dependencias entre diferentes partes&#xD;
+interesadas, Análisis de relaciones clave dentro del sistema, Evaluación de la estructura organizativa y operativa del&#xD;
+negocio, Descripción de la arquitectura de sistema basada en relaciones de dominio</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

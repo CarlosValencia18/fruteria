@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mbbfJ7n0uBHtGnZsHsUE8g" name="new_role,_BObAEBVrEe-rCOB8M4PBzA" guid="-mbbfJ7n0uBHtGnZsHsUE8g" changeDate="2024-05-18T18:05:01.494-0500">
+  <mainDescription>El Analista de Negocio en el proceso de la frutería es responsable de comprender a fondo las operaciones comerciales,&#xD;
+identificar áreas de mejora y definir requisitos claros y precisos para el sistema. Colabora estrechamente con las partes&#xD;
+interesadas para capturar sus necesidades, preocupaciones y expectativas. Además, juega un papel crucial en el análisis y&#xD;
+la documentación de procesos comerciales, identificando áreas de optimización y proponiendo soluciones tecnológicas&#xD;
+adecuadas. El Analista de Negocio actúa como puente entre los usuarios y los desarrolladores, asegurando que la solución&#xD;
+final satisfaga las necesidades del negocio. Además, participa en la validación y verificación de las soluciones&#xD;
+implementadas para garantizar su alineación con los objetivos comerciales</mainDescription>
+  <keyConsiderations>disenio, negocio, software, desarrollo</keyConsiderations>
+  <skills>Excelentes habilidades de comunicación y negociación, capacidad para comprender los procesos comerciales y las necesidades&#xD;
+del usuario, habilidad para traducir los requisitos del negocio en especificaciones técnicas, destreza en el análisis y la&#xD;
+resolución de problemas, conocimiento de metodologías de desarrollo de software y prácticas de negocio</skills>
+  <assignmentApproaches>Entender a fondo las operaciones y los objetivos comerciales, colaborar con las partes interesadas para identificar&#xD;
+requisitos y expectativas, documentar y analizar procesos comerciales existentes, proponer soluciones tecnológicas que&#xD;
+mejoren la eficiencia y la productividad, traducir requisitos comerciales en especificaciones técnicas comprensibles,&#xD;
+validar y verificar que las soluciones implementadas cumplan con los objetivos comerciales</assignmentApproaches>
+  <synonyms>Consultor de Negocios, Analista de Requerimientos, Especialista en Requisitos Comerciales</synonyms>
+</org.eclipse.epf.uma:RoleDescription>

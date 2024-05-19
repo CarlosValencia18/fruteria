@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9kORdgF80c_wHtaS8GJIGg" name="new_artifact,_eqBbEBVuEe-rCOB8M4PBzA" guid="-9kORdgF80c_wHtaS8GJIGg" changeDate="2024-05-18T18:29:50.474-0500">
+  <mainDescription>Las Relaciones de Dominio son un componente importante del análisis de procesos en la frutería. Estas relaciones describen&#xD;
+las conexiones y dependencias entre las diversas entidades que participan en el proceso de compra de insumos a proveedores,&#xD;
+como proveedores, productos, pedidos, facturas, empleados y clientes. El análisis de las relaciones de dominio ayuda a&#xD;
+identificar cómo interactúan estas entidades entre sí y cómo influyen unas en otras. Por ejemplo, un pedido está&#xD;
+relacionado con un proveedor y varios productos, y puede generar una factura que afecte a los registros contables.&#xD;
+Comprender estas relaciones es fundamental para diseñar y optimizar el proceso, identificar puntos de fricción y áreas de&#xD;
+mejora, y garantizar una ejecución fluida y eficiente del proceso</mainDescription>
+  <keyConsiderations>Relaciones de Dominio, Entidades, Conexiones, Interdependencia, Análisis de Procesos</keyConsiderations>
+  <purpose>Su propósito es identificar y visualizar cómo interactúan las diferentes entidades dentro del proceso, ayudando a&#xD;
+comprender la dinámica y la interdependencia entre ellas</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

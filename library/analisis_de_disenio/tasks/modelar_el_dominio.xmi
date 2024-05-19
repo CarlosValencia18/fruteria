@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-CW81ki-5VNCqlHvXG07pRg" name=",_hI9uQBVkEe-rCOB8M4PBzA" guid="-CW81ki-5VNCqlHvXG07pRg" changeDate="2024-05-18T17:18:39.545-0500">
+  <mainDescription>Modelar el dominio en el proceso de compra de insumos a proveedores en la frutería implica identificar y definir las&#xD;
+entidades relevantes dentro del proceso, así como las relaciones y las interacciones entre ellas. Esto puede incluir&#xD;
+entidades como proveedores, productos, pedidos, clientes internos, entre otros, y las relaciones entre ellas, como la&#xD;
+relación de un proveedor con sus productos, o la relación entre un pedido y los productos solicitados. Al modelar el&#xD;
+dominio, se crea una representación visual y estructurada que ayuda a comprender la complejidad del proceso y a diseñar un&#xD;
+sistema que se ajuste adecuadamente a sus necesidades</mainDescription>
+  <keyConsiderations>Modelar, dominio, entidades, relaciones, proceso de compra</keyConsiderations>
+  <purpose>El propósito de esta tarea es representar de manera clara y comprensible la estructura y las interacciones dentro del&#xD;
+dominio del proceso de compra, lo que facilita el diseño y la implementación del sistema</purpose>
+  <alternatives>Identificación de entidades clave dentro del dominio del proceso de compra, Definición de relaciones y asociaciones entre&#xD;
+las entidades, Creación de diagramas de entidad-relación para representar el dominio, Análisis de la estructura y la&#xD;
+complejidad del dominio, Desarrollo de recomendaciones para optimizar el diseño del sistema en función del modelo de&#xD;
+dominio</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

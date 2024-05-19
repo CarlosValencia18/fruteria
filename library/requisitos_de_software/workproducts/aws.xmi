@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-2sqqiPs1gVQ3jMSkv15H4A" name="new_artifact,_31lkQBVxEe-rCOB8M4PBzA" guid="-2sqqiPs1gVQ3jMSkv15H4A" changeDate="2024-05-18T18:54:15.625-0500">
+  <mainDescription>El despliegue en AWS implica implementar y ejecutar la aplicación en la infraestructura de Amazon Web Services (AWS) en el&#xD;
+contexto del proceso de compra de insumos a proveedores en la frutería. AWS ofrece una amplia gama de servicios en la nube,&#xD;
+incluidos servicios de cómputo, almacenamiento, bases de datos, redes y más, que permiten ejecutar aplicaciones de manera&#xD;
+escalable, segura y confiable. Al desplegar en AWS, los desarrolladores pueden utilizar servicios como Amazon EC2 para&#xD;
+instancias virtuales, Amazon RDS para bases de datos gestionadas, Amazon S3 para almacenamiento de objetos, y AWS Lambda&#xD;
+para funciones sin servidor, entre otros. Esto permite construir una arquitectura flexible y resistente que puede adaptarse&#xD;
+a las necesidades cambiantes del negocio. El despliegue en AWS también ofrece beneficios como la alta disponibilidad, la&#xD;
+escalabilidad automática, la seguridad integrada y la administración simplificada de la infraestructura</mainDescription>
+  <keyConsiderations>Despliegue en AWS, Amazon Web Services, Infraestructura en la Nube, Escalabilidad, Seguridad</keyConsiderations>
+  <purpose>Su propósito es proporcionar un entorno escalable, seguro y confiable para ejecutar la aplicación, aprovechando los&#xD;
+servicios en la nube de AWS</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

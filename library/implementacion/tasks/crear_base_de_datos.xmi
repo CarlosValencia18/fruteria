@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-yA2Q-UbJRUN3yaoQR26okg" name=",_Xkr-0BVoEe-rCOB8M4PBzA" guid="-yA2Q-UbJRUN3yaoQR26okg" changeDate="2024-05-18T17:46:04.186-0500">
+  <mainDescription>Crear la base de datos en el proceso de compra de insumos a proveedores en la frutería implica definir las tablas, campos y&#xD;
+relaciones necesarias para almacenar y gestionar la información relacionada con proveedores, productos, pedidos, inventario&#xD;
+y otros aspectos relevantes del proceso. Esto puede incluir la selección de un sistema de gestión de bases de datos&#xD;
+adecuado, el diseño de esquemas de base de datos normalizados y la implementación de restricciones de integridad y de datos&#xD;
+para garantizar la consistencia y la fiabilidad de los datos almacenados</mainDescription>
+  <keyConsiderations>Crear, base de datos, estructura, almacenamiento, datos</keyConsiderations>
+  <purpose>El propósito de esta tarea es establecer un sistema de almacenamiento de datos eficiente y bien estructurado que satisfaga&#xD;
+las necesidades de la aplicación</purpose>
+  <alternatives>Definición de las tablas y campos de la base de datos, Establecimiento de relaciones entre las tablas para reflejar la&#xD;
+estructura de los datos, Implementación de restricciones de integridad y de datos para garantizar la calidad de los datos,&#xD;
+Desarrollo de consultas y procedimientos almacenados para acceder y manipular los datos, Realización de pruebas de&#xD;
+funcionamiento para verificar la correcta operación de la base de datos</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

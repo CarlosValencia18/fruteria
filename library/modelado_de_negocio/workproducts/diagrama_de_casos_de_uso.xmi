@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-rVO9ph9G_nmVw-Oim5AP-Q" name="new_artifact,_Ld8nwBVuEe-rCOB8M4PBzA" guid="-rVO9ph9G_nmVw-Oim5AP-Q" changeDate="2024-05-18T18:27:57.951-0500">
+  <mainDescription>El Diagrama de Casos de Uso es una herramienta de modelado que muestra las interacciones entre los actores (usuarios y&#xD;
+sistemas externos) y el sistema en el contexto del proceso de compra de insumos a proveedores en la frutería. Utiliza casos&#xD;
+de uso para representar las diferentes funciones y acciones que los usuarios pueden llevar a cabo con el sistema, ayudando&#xD;
+a definir los requisitos funcionales del sistema desde una perspectiva de usuario. Los actores representan roles o&#xD;
+entidades externas que interactúan con el sistema, mientras que los casos de uso representan las funciones o acciones que&#xD;
+el sistema debe realizar para satisfacer las necesidades del usuario. El Diagrama de Casos de Uso proporciona una visión&#xD;
+general de alto nivel del sistema y ayuda a identificar los requisitos funcionales clave que deben ser implementados</mainDescription>
+  <keyConsiderations>Diagrama de Casos de Uso, Actores, Casos de Uso, Interacciones, Requisitos Funcionales</keyConsiderations>
+  <purpose>Su propósito es identificar y visualizar los diferentes roles y acciones que los usuarios y el sistema pueden realizar&#xD;
+durante el proceso, ayudando a comprender los requisitos funcionales del sistema</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

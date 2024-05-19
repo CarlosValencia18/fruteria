@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-_s0DWEm-TgxtZeyvIIq-hg" name=",_DqYtMBVgEe-rCOB8M4PBzA" guid="-_s0DWEm-TgxtZeyvIIq-hg" changeDate="2024-05-18T16:46:37.245-0500">
+  <mainDescription>Identificar situaciones problemáticas en una frutería implica examinar detenidamente todos los aspectos de la operación&#xD;
+para identificar áreas que puedan estar causando problemas o dificultades. Esto podría incluir problemas de gestión de&#xD;
+inventario, como la falta de rotación de productos o la sobreproducción de ciertos artículos, problemas de marketing o&#xD;
+promoción que afectan la demanda de productos, o deficiencias en el servicio al cliente que pueden resultar en una&#xD;
+experiencia insatisfactoria para los clientes. Al identificar estas situaciones problemáticas, se pueden desarrollar&#xD;
+estrategias y soluciones para abordarlos y mejorar el funcionamiento general de la frutería</mainDescription>
+  <keyConsiderations>Situaciones problemáticas, desafíos, dificultades, mejora continua, eficiencia operativa, satisfacción del cliente</keyConsiderations>
+  <purpose>El propósito de esta tarea es detectar y comprender las dificultades y desafíos que enfrenta la frutería, con el fin de&#xD;
+tomar medidas correctivas para mejorar la eficiencia, la rentabilidad y la satisfacción del cliente</purpose>
+  <alternatives>Análisis de problemas en la frutería, Evaluación de desafíos operativos, Auditoría de dificultades en la frutería, Revisión&#xD;
+de situaciones problemáticas en el modelo de negocio, Análisis de obstáculos en la cadena de suministro</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

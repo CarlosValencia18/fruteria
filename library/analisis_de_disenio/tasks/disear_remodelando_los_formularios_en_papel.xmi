@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-RyuPH0SZhVmHgA-9-gZpyw" name=",_lsbyEBVnEe-rCOB8M4PBzA" guid="-RyuPH0SZhVmHgA-9-gZpyw" changeDate="2024-05-18T17:40:34.686-0500">
+  <mainDescription>Diseñar remodelando los formularios en papel en el proceso de compra de insumos a proveedores en la frutería implica&#xD;
+revisar y actualizar el diseño de los formularios utilizados para registrar y solicitar los productos necesarios a los&#xD;
+proveedores. Esto puede incluir la reorganización de los campos y secciones para una mejor usabilidad, la actualización del&#xD;
+lenguaje y las instrucciones para mayor claridad, y la incorporación de elementos visuales para facilitar la navegación y&#xD;
+la comprensión. Al remodelar los formularios en papel, se busca mejorar la experiencia del usuario y aumentar la eficiencia&#xD;
+del proceso de compra</mainDescription>
+  <keyConsiderations>Diseñar, remodelar, formularios en papel, proceso de compra, usabilidad</keyConsiderations>
+  <purpose>El propósito de esta tarea es optimizar la usabilidad y la eficiencia de los formularios en papel, asegurando que capturen&#xD;
+de manera precisa y completa la información requerida durante el proceso de compra.</purpose>
+  <alternatives>Revisión y actualización de la estructura de los formularios en papel, Mejora del lenguaje y las instrucciones para mayor&#xD;
+claridad, Incorporación de elementos visuales para facilitar la navegación y la comprensión, Pruebas de usabilidad para&#xD;
+validar la efectividad de los formularios remodelados, Implementación de cambios basados en la retroalimentación de los&#xD;
+usuarios</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

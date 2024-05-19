@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
-  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_H_UygBMCEe-z68yt5X_0_A" guid="_H_UygBMCEe-z68yt5X_0_A"/>
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_H_UygBMCEe-z68yt5X_0_A" guid="_H_UygBMCEe-z68yt5X_0_A">
+    <resourceDescriptors xmi:id="_AgJaQhVqEe-rCOB8M4PBzA" id="-ESVYM-SkY4EocF1Wbgzubw" uri="tasks/verificar_estandares.xmi"/>
+    <resourceDescriptors xmi:id="_LSQR8hVqEe-rCOB8M4PBzA" id="-r5U6G6RvZxA-ZvBuKGk6Fg" uri="tasks/despliegue_de_la_aplicacin.xmi"/>
+    <resourceDescriptors xmi:id="_AlaNYBVtEe-rCOB8M4PBzA" id="-lm9gr66Unu7o7l68Gu0-Gw" uri="roles/ingeniero_de_pruebas.xmi"/>
+    <resourceDescriptors xmi:id="_Hr5u8RVtEe-rCOB8M4PBzA" id="-vIFjbN25wXoLeMJuk-dTOw" uri="roles/programador.xmi"/>
+    <resourceDescriptors xmi:id="_0DaTIBVxEe-rCOB8M4PBzA" id="-a7dyuL_-OK6-x5BLMM8Nfw" uri="workproducts/node.xmi"/>
+    <resourceDescriptors xmi:id="_9wdAMBVxEe-rCOB8M4PBzA" id="-2sqqiPs1gVQ3jMSkv15H4A" uri="workproducts/aws.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_H_KacBMCEe-z68yt5X_0_A" name="requisitos_de_software" guid="_H_KacBMCEe-z68yt5X_0_A" presentationName="requisitos de software" briefDescription="Requerimientos tanto funcionales como no funcionales de la aplicacion" authors="adrian" changeDate="2024-05-15T16:29:09.899-0500">
     <methodElementProperty xmi:id="_KtLf4BMCEe-z68yt5X_0_A" name="me_edited" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_H_KacRMCEe-z68yt5X_0_A" name="Content" guid="_H_KacRMCEe-z68yt5X_0_A">
@@ -17,7 +24,36 @@
           </childPackages>
         </childPackages>
       </childPackages>
-      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_H_LBhhMCEe-z68yt5X_0_A" name="CoreContent" guid="_H_LBhhMCEe-z68yt5X_0_A"/>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_H_LBhhMCEe-z68yt5X_0_A" name="CoreContent" guid="_H_LBhhMCEe-z68yt5X_0_A">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_AHcc0BVeEe-rCOB8M4PBzA" name="realizar_la_validacion_de_la_aplicacion" guid="_AHcc0BVeEe-rCOB8M4PBzA" presentationName="Realizar la validacion de la aplicacion" briefDescription="Realizar la validación de la aplicación en un proyecto de software implica verificar que el software cumpla con los requisitos especificados y funcione correctamente en su entorno previsto. Esto incluye pruebas funcionales, de rendimiento, de seguridad y de usabilidad para garantizar que la aplicación sea confiable, segura y satisfactoria para los usuarios finales">
+          <methodElementProperty xmi:id="_AHcc0RVeEe-rCOB8M4PBzA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_D59sMBVeEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ypKcUBVpEe-rCOB8M4PBzA" name="verificar_estandares" guid="_ypKcUBVpEe-rCOB8M4PBzA" presentationName="Verificar Estandares" briefDescription="Verificar estándares implica asegurar que el código y los procesos del sistema de compra de insumos a proveedores en la frutería cumplan con las normas y prácticas establecidas" performedBy="_7l4YUBVsEe-rCOB8M4PBzA" mandatoryInput="_vWJSwBVxEe-rCOB8M4PBzA" output="_vWJSwBVxEe-rCOB8M4PBzA">
+            <methodElementProperty xmi:id="_AgJaQBVqEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-ESVYM-SkY4EocF1Wbgzubw" href="uma://-ESVYM-SkY4EocF1Wbgzubw#-ESVYM-SkY4EocF1Wbgzubw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_CpAkMBVqEe-rCOB8M4PBzA" name="despliegue_de_la_aplicacin" guid="_CpAkMBVqEe-rCOB8M4PBzA" presentationName="Despliegue de la aplicación" briefDescription="El despliegue de la aplicación implica poner en funcionamiento el sistema de compra de insumos a proveedores en la frutería en un entorno de producción accesible para los usuarios finales" performedBy="_CWiMwBVtEe-rCOB8M4PBzA" mandatoryInput="_vWJSwBVxEe-rCOB8M4PBzA" output="_31lkQBVxEe-rCOB8M4PBzA">
+            <methodElementProperty xmi:id="_LSQR8BVqEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-r5U6G6RvZxA-ZvBuKGk6Fg" href="uma://-r5U6G6RvZxA-ZvBuKGk6Fg#-r5U6G6RvZxA-ZvBuKGk6Fg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_7l4YUBVsEe-rCOB8M4PBzA" name="ingeniero_de_pruebas" guid="_7l4YUBVsEe-rCOB8M4PBzA" presentationName="Ingeniero de pruebas" briefDescription="El Ingeniero de Pruebas en el proceso de la frutería se encarga de asegurar la calidad y funcionalidad del sistema de compra de insumos a proveedores mediante la realización de pruebas exhaustivas">
+            <methodElementProperty xmi:id="_AlXKEBVtEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-lm9gr66Unu7o7l68Gu0-Gw" href="uma://-lm9gr66Unu7o7l68Gu0-Gw#-lm9gr66Unu7o7l68Gu0-Gw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_CWiMwBVtEe-rCOB8M4PBzA" name="programador" guid="_CWiMwBVtEe-rCOB8M4PBzA" presentationName="Programador" briefDescription="El Programador en el proceso de la frutería desarrolla y codifica el software del sistema de compra de insumos a proveedores">
+            <methodElementProperty xmi:id="_HrzBQBVtEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-vIFjbN25wXoLeMJuk-dTOw" href="uma://-vIFjbN25wXoLeMJuk-dTOw#-vIFjbN25wXoLeMJuk-dTOw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_vWJSwBVxEe-rCOB8M4PBzA" name="node" guid="_vWJSwBVxEe-rCOB8M4PBzA" presentationName="Node" briefDescription="La aplicación Node es una aplicación basada en Node.js utilizada en el proceso de compra de insumos a proveedores en la frutería">
+            <methodElementProperty xmi:id="_0DXP0BVxEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-a7dyuL_-OK6-x5BLMM8Nfw" href="uma://-a7dyuL_-OK6-x5BLMM8Nfw#-a7dyuL_-OK6-x5BLMM8Nfw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_31lkQBVxEe-rCOB8M4PBzA" name="aws" guid="_31lkQBVxEe-rCOB8M4PBzA" presentationName="AWS" briefDescription="El despliegue en AWS implica implementar y ejecutar la aplicación en Amazon Web Services para el proceso de compra de insumos a proveedores en la frutería">
+            <methodElementProperty xmi:id="_9wXgoBVxEe-rCOB8M4PBzA" name="me_edited" value="true"/>
+            <presentation xmi:id="-2sqqiPs1gVQ3jMSkv15H4A" href="uma://-2sqqiPs1gVQ3jMSkv15H4A#-2sqqiPs1gVQ3jMSkv15H4A"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_H_LBhxMCEe-z68yt5X_0_A" name="CapabilityPatterns" guid="_H_LBhxMCEe-z68yt5X_0_A"/>
     </methodPackages>
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_H_LBiBMCEe-z68yt5X_0_A" name="DeliveryProcesses" guid="_H_LBiBMCEe-z68yt5X_0_A"/>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-zMkoiiS1Ubxy9aU9P1IH8A" name="new_artifact,_DZXl8BVxEe-rCOB8M4PBzA" guid="-zMkoiiS1Ubxy9aU9P1IH8A" changeDate="2024-05-18T18:48:14.057-0500">
+  <mainDescription>Un repositorio GitHub es un espacio de almacenamiento en línea basado en la plataforma GitHub que se utiliza para gestionar&#xD;
+y colaborar en el desarrollo de software en el contexto del proceso de compra de insumos a proveedores en la frutería.&#xD;
+Permite a los desarrolladores almacenar y organizar el código fuente de sus aplicaciones, realizar un seguimiento de los&#xD;
+cambios a lo largo del tiempo, y colaborar con otros miembros del equipo en el desarrollo de nuevas características y&#xD;
+corrección de errores. GitHub proporciona herramientas para la gestión de versiones, seguimiento de problemas, revisión de&#xD;
+código y automatización de procesos de desarrollo, lo que facilita el trabajo colaborativo y la entrega continua de&#xD;
+software de alta calidad. Además, GitHub ofrece características como ramificaciones, solicitudes de extracción y despliegue&#xD;
+automático, que ayudan a mantener un flujo de trabajo eficiente y una integración continua durante el desarrollo del&#xD;
+proceso</mainDescription>
+  <keyConsiderations>Repositorio GitHub, Colaboración en Desarrollo de Software, Control de Versiones, Gestión de Proyectos, Integración&#xD;
+Continua</keyConsiderations>
+  <purpose>Un repositorio GitHub es un espacio de almacenamiento en línea utilizado para gestionar y colaborar en el código fuente del&#xD;
+proceso de compra de insumos a proveedores en la frutería</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

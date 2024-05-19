@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-a7dyuL_-OK6-x5BLMM8Nfw" name="new_artifact,_vWJSwBVxEe-rCOB8M4PBzA" guid="-a7dyuL_-OK6-x5BLMM8Nfw" changeDate="2024-05-18T18:53:15.951-0500">
+  <mainDescription>La aplicación Node es una aplicación basada en Node.js, un entorno de ejecución de JavaScript del lado del servidor, que se&#xD;
+utiliza en el proceso de compra de insumos a proveedores en la frutería. Node.js permite a los desarrolladores utilizar&#xD;
+JavaScript tanto en el frontend como en el backend de una aplicación, lo que simplifica el desarrollo y mejora la&#xD;
+coherencia del código. En el contexto del proceso de compra de insumos, una aplicación Node puede utilizarse para crear un&#xD;
+servidor web que maneje las solicitudes de los usuarios, interactúe con la base de datos, procese pagos, envíe&#xD;
+notificaciones y realice otras tareas relacionadas con el proceso. Node.js es conocido por su rendimiento y escalabilidad,&#xD;
+lo que lo hace adecuado para aplicaciones que requieren un manejo eficiente de múltiples conexiones simultáneas.</mainDescription>
+  <keyConsiderations>Aplicación Node, Node.js, Servidor Web, JavaScript del Lado del Servidor, Escalabilidad</keyConsiderations>
+  <purpose>Su propósito es crear un servidor web eficiente y escalable que maneje las solicitudes de los usuarios, procese datos y se&#xD;
+integre con otras tecnologías en el proceso</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

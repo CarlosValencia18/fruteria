@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-2DvjmPafGA2009N7H8oeIg" name=",_UxhwIBVnEe-rCOB8M4PBzA" guid="-2DvjmPafGA2009N7H8oeIg" changeDate="2024-05-18T17:39:04.479-0500">
+  <mainDescription>Diseñar en base a los requisitos funcionales en el proceso de compra de insumos a proveedores en la frutería implica crear&#xD;
+una arquitectura y una estructura que reflejen las funciones y operaciones que el sistema debe realizar para cumplir con&#xD;
+sus objetivos. Esto puede incluir la definición de componentes, módulos y subsistemas, así como la especificación de&#xD;
+interfaces y flujos de datos entre ellos. Al diseñar en base a los requisitos funcionales, se garantiza que el sistema&#xD;
+tenga la capacidad de realizar todas las funciones necesarias de manera eficiente y efectiva</mainDescription>
+  <keyConsiderations>Diseñar, requisitos funcionales, arquitectura, estructura, sistema</keyConsiderations>
+  <purpose>El propósito de esta tarea es desarrollar un diseño que cumpla con los requisitos funcionales del sistema, asegurando que&#xD;
+todas las funciones necesarias estén correctamente implementadas</purpose>
+  <alternatives>Identificación de las funciones y operaciones requeridas por el sistema, Creación de la arquitectura del sistema basada en&#xD;
+los requisitos funcionales, Especificación de los componentes y módulos del sistema, Definición de interfaces y flujos de&#xD;
+datos entre los componentes del sistema, Validación del diseño para asegurar que cumple con los requisitos funcionales&#xD;
+establecidos</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

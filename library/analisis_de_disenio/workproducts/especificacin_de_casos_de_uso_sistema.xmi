@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VR6_Axcx8luo3_CpnTZ7Rw" name="new_artifact,_kAD2MBVvEe-rCOB8M4PBzA" guid="-VR6_Axcx8luo3_CpnTZ7Rw" changeDate="2024-05-18T18:38:02.875-0500">
+  <mainDescription>La Especificación de Casos de Uso del Sistema es un documento que describe en detalle cómo interactúan los usuarios con el&#xD;
+sistema durante el proceso de compra de insumos a proveedores en la frutería. Cada caso de uso describe una secuencia de&#xD;
+acciones que un usuario realiza con el sistema para lograr un objetivo específico, junto con las interacciones&#xD;
+correspondientes del sistema. La especificación incluye información detallada sobre los actores involucrados, los&#xD;
+escenarios de uso, las precondiciones y postcondiciones, y cualquier otra información relevante para comprender&#xD;
+completamente el caso de uso. La especificación de casos de uso del sistema sirve como una guía para el diseño, desarrollo&#xD;
+y prueba del sistema, garantizando que cumpla con los requisitos y expectativas del usuario</mainDescription>
+  <keyConsiderations>Especificación de Casos de Uso del Sistema, Requisitos Funcionales, Interacciones Usuario-Sistema, Diseño de Sistema</keyConsiderations>
+  <purpose>Su propósito es detallar los requisitos funcionales del sistema y las acciones que los usuarios pueden realizar,&#xD;
+facilitando el diseño y desarrollo del sistema</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

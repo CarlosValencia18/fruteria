@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-pjqErsOS__kBINBdXQ6hQA" name=",_EFEZ4BVnEe-rCOB8M4PBzA" guid="-pjqErsOS__kBINBdXQ6hQA" changeDate="2024-05-18T17:36:40.751-0500">
+  <mainDescription>Especificar las clases del sistema en el proceso de compra de insumos a proveedores en la frutería implica identificar las&#xD;
+diferentes clases de objetos que serán necesarias para representar el proceso. Esto puede incluir clases como Proveedor,&#xD;
+Producto, Pedido, Cliente Interno, entre otras, junto con sus atributos (por ejemplo, nombre, dirección, cantidad) y&#xD;
+métodos (por ejemplo, agregarProducto(), realizarPedido()). Al especificar las clases, se establece una estructura clara y&#xD;
+coherente para el sistema, lo que facilita su diseño, implementación y mantenimiento</mainDescription>
+  <keyConsiderations>Especificar, clases, objetos, atributos, métodos, sistema</keyConsiderations>
+  <purpose>El propósito de esta tarea es establecer una estructura clara y coherente para el sistema, lo que facilita su diseño,&#xD;
+implementación y mantenimiento</purpose>
+  <alternatives>Identificación de las clases de objetos necesarias para el sistema, Definición de los atributos y métodos de cada clase,&#xD;
+Creación de diagramas de clases para representar la estructura del sistema, Análisis de la cohesión y el acoplamiento entre&#xD;
+las clases, Desarrollo de recomendaciones para mejorar el diseño de las clases en función de los requisitos del sistema</alternatives>
+</org.eclipse.epf.uma:TaskDescription>
